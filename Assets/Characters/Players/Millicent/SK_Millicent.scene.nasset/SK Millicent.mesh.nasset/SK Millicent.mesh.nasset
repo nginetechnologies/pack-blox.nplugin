@@ -1,0 +1,94 @@
+{
+    "guid": "203d3d02-88ad-cafd-d878-8b24f6bfb4ce",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ce80deb3-a8d0-fdf2-6626-6a04221b0d69",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "87067968-9991-d2e0-1d89-123862977039",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Millicent Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "8e4a5450-f56e-dc00-d1b6-8958d6e5a022",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "f1aa074d-6077-4e5d-95fa-d3631dd8532e",
+                                "a687e655-14f1-4590-8519-5b0bddd76e43",
+                                "93cc5c8d-5c0a-4b03-a43d-ca954bbb7ae8"
+                            ],
+                            "jump_animations": [
+                                "29913240-5fc7-499c-a34d-1343f09f08b0",
+                                "b1e0bcdd-1cfd-404f-b323-78339ef01eed",
+                                "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "79d5a8cb-23ba-632e-ac58-2d4979a98d1c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Millicent Millicent"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "06b2be28-7ca5-451d-99a2-7fd1c347cd63",
+                                "material_instance": "9a014f95-5b9c-d2e4-977d-edb4947a853c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "45974803-4e3b-367b-78a0-829b9bc311c5"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "daf79f7e-0475-2350-db2b-3de871e68c1c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "203d3d02-88ad-cafd-d878-8b24f6bfb4ce"
+    },
+    "dependencies": [
+        "9a014f95-5b9c-d2e4-977d-edb4947a853c",
+        "06b2be28-7ca5-451d-99a2-7fd1c347cd63",
+        "45974803-4e3b-367b-78a0-829b9bc311c5",
+        "daf79f7e-0475-2350-db2b-3de871e68c1c",
+        "f1aa074d-6077-4e5d-95fa-d3631dd8532e",
+        "a687e655-14f1-4590-8519-5b0bddd76e43",
+        "93cc5c8d-5c0a-4b03-a43d-ca954bbb7ae8",
+        "29913240-5fc7-499c-a34d-1343f09f08b0",
+        "b1e0bcdd-1cfd-404f-b323-78339ef01eed",
+        "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
+    ]
+}

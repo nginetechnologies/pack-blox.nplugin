@@ -1,0 +1,75 @@
+{
+    "guid": "b40a0bae-7020-e5f3-0ce2-0d54a4670226",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d68a5e69-db5c-e700-58b6-5aeb0aafdd0d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a688d32d-2270-efd2-50dc-f921c4c4d5e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Cat Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "70f1d757-196d-e8a0-dda0-1eb3c0517816",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e202b995-a699-cf3b-e8b4-62984e0c07bb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Cat Cat"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7ddd2745-5f07-6a6a-f257-a0aa9f717af4",
+                                "material_instance": "9b0db98b-05b0-2cf3-d54c-c876c7a5b742"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0912bc24-e492-7f34-5c53-3169b8a75fe4"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b40a0bae-7020-e5f3-0ce2-0d54a4670226"
+    },
+    "dependencies": [
+        "9b0db98b-05b0-2cf3-d54c-c876c7a5b742",
+        "7ddd2745-5f07-6a6a-f257-a0aa9f717af4",
+        "0912bc24-e492-7f34-5c53-3169b8a75fe4",
+        "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
+    ]
+}

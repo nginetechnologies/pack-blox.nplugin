@@ -1,0 +1,44 @@
+{
+    "guid": "48282f15-a264-8f2c-1373-3e21be15a1c8",
+    "source": "../SK_Chick.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b9e58bb3-b5ad-0ce7-e867-607d943e3905",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Chick"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b71ab99c-a289-bbff-5500-897660925219",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Chick"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -89.9999,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    50.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "021675fe-7364-2645-b1de-713cd645f7a6"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "48282f15-a264-8f2c-1373-3e21be15a1c8"
+    },
+    "dependencies": [
+        "021675fe-7364-2645-b1de-713cd645f7a6"
+    ]
+}
