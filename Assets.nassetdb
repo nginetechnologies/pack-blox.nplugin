@@ -7,17 +7,32 @@
             "a5f0fde2-c954-64e9-ca19-8fc9c29ea79c"
         ]
     },
+    "02026a58-192f-7ffa-8102-906c72f1429f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Thumbnails/Plant 3.mesh.nasset.tex.nasset"
+    },
     "021675fe-7364-2645-b1de-713cd645f7a6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Animals/Chick/SK_Chick.scene.nasset/SK Chick.mesh.nasset/SK Chick.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "18b8a338-44fd-2e9e-55d3-f67f942ac469",
+            "62dfe74d-7dc6-71d7-f591-a55d7ed1633e",
+            "2147cb75-c17c-3a14-23c6-b046547bc7a8",
+            "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29"
         ]
     },
     "029e6bcb-b30e-4a12-b3b5-f440a77683de": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Blox Assets"
+    },
+    "04066e10-7a1b-d2b1-f24b-e6d29ab66eef": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Thumbnails/Rail Incline.mesh.nasset.tex.nasset"
     },
     "04078e16-fc34-c920-b14d-26f09e6a2ee0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -31,7 +46,19 @@
     },
     "048c11d8-8d96-82d0-73b6-f131527b7f04": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Animals/Cat/SK_Cat.scene.nasset/SK_Cat.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Cat/SK_Cat.scene.nasset/SK_Cat.scene.nasset",
+        "dependencies": [
+            "b40a0bae-7020-e5f3-0ce2-0d54a4670226"
+        ]
+    },
+    "04b3bc84-8dda-4002-3114-5bb7c5c1096d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Leaves.mesh.nasset/Thumbnails/Pixel Block Leaves.mesh.nasset.tex.nasset"
+    },
+    "055b629a-dccf-86bd-d82d-c7406f03f5a7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Thumbnails/Dead Tree 2.mesh.nasset.tex.nasset"
     },
     "05ea991e-6b52-4d8a-93ee-0989146939c3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -61,6 +88,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "072e4961-06b3-0554-8f49-2252c04b0671": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Thumbnails/Lever Left.mesh.nasset.tex.nasset"
+    },
     "07bf9043-5823-95b3-f7ea-1bc2d16589ce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -72,6 +103,14 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "086d5475-30c7-4d0d-aa07-b7046f17d469": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Knight/Thumbnails/Knight.scene.nasset.tex.nasset"
+    },
+    "08fafa96-8ed6-6777-dec2-cdbb0eef9894": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Thumbnails/Plant 2.mesh.nasset.tex.nasset"
     },
     "0912bc24-e492-7f34-5c53-3169b8a75fe4": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -87,6 +126,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Stone.mesh.nasset/Shovel Stone.mesh.nasset",
+        "thumbnail": "d23fea67-4346-702b-e936-f82a32593398",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -100,6 +140,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed.mesh.nasset",
+        "thumbnail": "b1604b0e-193c-2c8b-eb14-de52e90b5a73",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -121,10 +162,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0c1340c7-24df-3714-33c9-29b043a58c0d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Thumbnails/Bamboo Mid.mesh.nasset.tex.nasset"
+    },
+    "0d1d3477-90bf-893f-b37a-5651edffe7f2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Exclamation.mesh.nasset/Thumbnails/Pixel Block Exclamation.mesh.nasset.tex.nasset"
+    },
     "0d639416-236c-3d95-3e8b-165d98ae1f27": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Snow.mesh.nasset/Pixel Block Snow.mesh.nasset",
+        "thumbnail": "ca0f8d9e-295e-5006-0aea-98758b7e877f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -134,10 +184,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0da0a08f-20fa-4588-8d68-2add20331652": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Wolf/Wolf.scene.nasset",
+        "thumbnail": "a4037dae-9844-4444-b477-269da74cdce7",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "0dd33237-27a2-14b3-e2b4-93f5e418e883": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Stone.mesh.nasset/Pixel Block Stone.mesh.nasset",
+        "thumbnail": "b1104f46-5998-78b3-2df4-64cec0a3b45d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -171,10 +231,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "122db259-1b40-2481-9c51-d05b91c0dc66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Thumbnails/Rock 1.mesh.nasset.tex.nasset"
+    },
     "141370b9-fb7d-bb62-bc14-c51187b250d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open.mesh.nasset",
+        "thumbnail": "d37067db-500c-5e38-cc98-c53d380fe1e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -200,6 +265,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Gold.mesh.nasset/Sword Gold.mesh.nasset",
+        "thumbnail": "d0cab6a2-3eeb-b8a5-6d02-74a185202e26",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -233,10 +299,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "168472a2-403b-4125-ad9f-dbb32f065a3c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Yeti/Yeti.scene.nasset",
+        "thumbnail": "6668e114-6eb1-4029-957b-408e649eaab6",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "16bd61d1-0b4d-8f9e-bbea-81ff51be9f5a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Brick.mesh.nasset/Block Brick.mesh.nasset",
+        "thumbnail": "4e53e9e5-871f-f357-8e8f-df911c31d429",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -245,6 +321,18 @@
             "d1fa97eb-5b40-f39e-39e8-ca1cfda89be3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "16e57208-169d-447e-8ab4-ec898023d91b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Skeleton/Thumbnails/Skeleton.scene.nasset.tex.nasset"
+    },
+    "18280e21-5951-d880-c161-2d655a371464": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Thumbnails/Fence Corner.mesh.nasset.tex.nasset"
+    },
+    "18ab2d99-05c1-935f-9c09-9ffd739bd258": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Blox Pixel.mtli.nasset.tex.nasset"
     },
     "18b8a338-44fd-2e9e-55d3-f67f942ac469": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -270,6 +358,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Wood.mesh.nasset/Block Wood.mesh.nasset",
+        "thumbnail": "8fdde8cb-d57c-b812-5026-39ffb0ad4378",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -279,10 +368,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1a66be65-1105-dcb5-8e3f-1e1bfa588e74": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Thumbnails/Bush.mesh.nasset.tex.nasset"
+    },
     "1c5ef43b-e51b-91f2-ce12-3bad01cf8a1b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Yellow.mesh.nasset/Pixel Block Bricks Yellow.mesh.nasset",
+        "thumbnail": "8998ab74-dabe-9ba2-6e3c-e24c15495379",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -308,6 +402,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Stone.mesh.nasset/Block Stone.mesh.nasset",
+        "thumbnail": "31ac7c3c-4453-0cc5-d983-88cdb2dd1c6f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -316,6 +411,22 @@
             "dad18a4b-dcc0-bccf-4ad0-5e2c8652d514",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "1e69e9e5-9940-0511-4120-e631e88af610": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Dirt.mesh.nasset/Thumbnails/Pixel Block Dirt.mesh.nasset.tex.nasset"
+    },
+    "1edb408b-fb3c-01ce-47b5-821c472eb0c5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Cheese.mesh.nasset/Thumbnails/Block Cheese.mesh.nasset.tex.nasset"
+    },
+    "1f65d7de-8abe-6c42-4847-f5f34464f46d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Thumbnails/Flowers 1.mesh.nasset.tex.nasset"
+    },
+    "1ffd57de-9f5f-2b04-29be-dbf9e3ac33e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Grass.mesh.nasset/Thumbnails/Pixel Block Grass.mesh.nasset.tex.nasset"
     },
     "203d3d02-88ad-cafd-d878-8b24f6bfb4ce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -383,6 +494,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Diamond.mesh.nasset/Shovel Diamond.mesh.nasset",
+        "thumbnail": "6f783e73-b913-e73e-159c-8d74efc9c052",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -396,6 +508,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T.mesh.nasset",
+        "thumbnail": "4c36846a-3d1a-1855-ab8d-e9cd6563d91f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -415,6 +528,15 @@
         "dependencies": [
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "26b35695-f924-47ad-9801-70d1849a54ed": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Pig/Pig.scene.nasset",
+        "thumbnail": "a7548ce9-d7ce-4758-9b68-45e2d96fea32",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
     },
     "26d53838-7f9b-246e-1998-70f4a6e07808": {
@@ -458,6 +580,14 @@
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
+    },
+    "2b9ddaf3-7eee-3a10-797b-f80633bd88b7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Stone.mesh.nasset/Thumbnails/Pickaxe Stone.mesh.nasset.tex.nasset"
+    },
+    "2d7ab3b6-a812-cc38-ff65-b87f91e9a6b7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Blox Atlas.mtli.nasset.tex.nasset"
     },
     "2e4accb9-ab0b-989a-3658-4ed66e6fc49d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -508,6 +638,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "30938959-fb6b-4969-af37-e3d7729c71a5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Hedgehog/Hedgehog.scene.nasset",
+        "thumbnail": "6dbbba86-4449-4c3a-a6e2-6dc6d36d6784",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "313b5e5e-9279-4e80-542a-eae3d5d7866b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -520,10 +659,36 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "31ac7c3c-4453-0cc5-d983-88cdb2dd1c6f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Stone.mesh.nasset/Thumbnails/Block Stone.mesh.nasset.tex.nasset"
+    },
+    "31f0c4e0-674a-302e-4b5a-8ea25139ad24": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Wood.mesh.nasset/Thumbnails/Shovel Wood.mesh.nasset.tex.nasset"
+    },
+    "34f4489f-6324-49ed-289a-2b8c9e5f637a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Thumbnails/Fence Center.mesh.nasset.tex.nasset"
+    },
+    "350d42b3-d175-c699-e19f-a2ef3e0e65a1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Snow.mesh.nasset/Thumbnails/Block Snow.mesh.nasset.tex.nasset"
+    },
+    "374ecb22-d0cf-4506-8374-3f31f8004310": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Dog/Dog.scene.nasset",
+        "thumbnail": "f58b84ce-0f92-4a27-9eba-c00ca0adf245",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "3802fe82-4917-1aa2-308c-a9a81e072934": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Ice.mesh.nasset/Pixel Block Ice.mesh.nasset",
+        "thumbnail": "bee50c1e-c0a8-4dbc-2a90-80060354cc94",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -577,10 +742,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3cb73b85-c32c-9113-6057-034e9960e454": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Gold.mesh.nasset/Thumbnails/Shovel Gold.mesh.nasset.tex.nasset"
+    },
     "3d8561f5-afdd-4bca-48fe-6c1d9c6e3764": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3.mesh.nasset",
+        "thumbnail": "d73dfb1a-f6dc-66da-4b09-4e8aae33bdde",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -589,6 +759,10 @@
             "15a16630-2290-5dfb-12c1-870ce2bd9864",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3e25e2d0-181e-e077-dcbb-fa857a89ca43": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Wood.mesh.nasset/Thumbnails/Axe Wood.mesh.nasset.tex.nasset"
     },
     "3e3af214-1c72-f705-8738-a87930c577d4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -601,6 +775,14 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3e78b87f-aa4e-58ce-cc45-3966d2f0aba0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Thumbnails/Dead Tree 1.mesh.nasset.tex.nasset"
+    },
+    "3edc05db-d60b-bbbe-33d0-9a5e25d53258": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Thumbnails/Grass Big.mesh.nasset.tex.nasset"
     },
     "3ee27398-d3ee-a6c2-00af-da171bbee010": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -634,6 +816,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Wood.mesh.nasset/Pixel Block Wood.mesh.nasset",
+        "thumbnail": "fc9390ce-68d5-f79a-282f-8c3daa599b7f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -647,6 +830,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight.mesh.nasset",
+        "thumbnail": "428ce537-2ade-abdd-945b-587580c65ea5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -656,10 +840,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "428ce537-2ade-abdd-945b-587580c65ea5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Thumbnails/Rail Straight.mesh.nasset.tex.nasset"
+    },
+    "434f9976-73a6-bcf8-9295-71bc33357a47": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Wood.mesh.nasset/Thumbnails/Sword Wood.mesh.nasset.tex.nasset"
+    },
     "43bc4c3e-46f0-bd54-2496-3c1e6ad4aab9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Grey.mesh.nasset/Pixel Block Bricks Grey.mesh.nasset",
+        "thumbnail": "c6d6467f-2cbc-6a60-2f85-a02fb6c4d82b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -699,14 +892,28 @@
             "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
         ]
     },
+    "47d691a2-7073-4d9c-a5b3-88ef03877430": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Zombie/Zombie.scene.nasset",
+        "thumbnail": "d2b6c5e0-6b9f-4d63-96c5-bde35ce7b8af",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "48282f15-a264-8f2c-1373-3e21be15a1c8": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Animals/Chick/SK_Chick.scene.nasset/SK_Chick.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Chick/SK_Chick.scene.nasset/SK_Chick.scene.nasset",
+        "dependencies": [
+            "021675fe-7364-2645-b1de-713cd645f7a6"
+        ]
     },
     "48aae4a9-3f78-6f23-1d80-b16cc011b3c4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
+        "thumbnail": "a02cf897-5f51-8983-1621-54425f01cfb6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -716,10 +923,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "48e46d97-1b8a-af50-bffa-a0c0eab8368e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Blank.mesh.nasset/Thumbnails/Block Blank.mesh.nasset.tex.nasset"
+    },
     "49beb322-7c76-81bc-6f87-0ba6888a2070": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Metal.mesh.nasset/Block Metal.mesh.nasset",
+        "thumbnail": "804d50e7-8deb-ff17-15a8-0b08ee0b591e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -728,6 +940,14 @@
             "15daf9af-34d6-378a-a598-cdd403534fc5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "4ac6ff41-d6f7-2e3f-d066-b82c1486bf39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Thumbnails/Bamboo Small.mesh.nasset.tex.nasset"
+    },
+    "4c36846a-3d1a-1855-ab8d-e9cd6563d91f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Thumbnails/Fence T.mesh.nasset.tex.nasset"
     },
     "4d0d04a8-cc09-993a-c574-8f3e31a5e432": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -740,6 +960,10 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "4e53e9e5-871f-f357-8e8f-df911c31d429": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Brick.mesh.nasset/Thumbnails/Block Brick.mesh.nasset.tex.nasset"
     },
     "4e7c0e06-c4ee-1b07-807f-c32c3fab5650": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -757,6 +981,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner.mesh.nasset",
+        "thumbnail": "d17d0edb-61a2-a5ea-6468-3deaf47b195d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -781,6 +1006,10 @@
     "5170095f-739f-4c18-a36c-1a615fce5950": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Millicent/Thumbnails/Millicent.scene.nasset.tex.nasset"
+    },
+    "53b8d209-bb9e-4dcd-b2e8-bf66ec8ce2e8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Giant/Thumbnails/Giant.scene.nasset.tex.nasset"
     },
     "53c89b51-f475-9822-efb3-319fd4daf309": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -837,6 +1066,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5556d5cc-468e-4448-80a6-a5de955440a1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Cat/Cat.scene.nasset",
+        "thumbnail": "a683595a-cb72-418d-ab6d-39697778630a",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "55b6a5f5-3764-421f-a102-4626e5f9e501": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Goblin/Thumbnails/Goblin.scene.nasset.tex.nasset"
+    },
+    "55db1c81-9d5e-264e-f257-f1e2356e75cc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Thumbnails/Grass Small.mesh.nasset.tex.nasset"
+    },
     "55fe0c42-3b87-2dbe-d74e-02130d4e273d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/textures/T_Blox_Atlas_D.tex.nasset"
@@ -845,6 +1091,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big.mesh.nasset",
+        "thumbnail": "74c8f4d5-b149-a503-6083-012099aeac44",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -870,6 +1117,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Red.mesh.nasset/Pixel Block Bricks Red.mesh.nasset",
+        "thumbnail": "cc7da273-d83f-aadf-f4ca-b006aa5c72b8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -879,10 +1127,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5b03df58-9e1a-af93-7ee2-3f8b62186ef4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Thumbnails/Tree 1.mesh.nasset.tex.nasset"
+    },
     "5c6dc61b-137b-29db-6585-4fcf3e8481bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crystal.mesh.nasset/Block Crystal.mesh.nasset",
+        "thumbnail": "78077653-0f5f-9660-b19b-e5af4a6161d3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -891,6 +1144,10 @@
             "ce21bfd5-2569-2d85-ecc5-01478a1a040c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5fd17871-dcf5-afe2-8885-93651793df93": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Block Square.mesh.nasset/Thumbnails/Pixel Block Block Square.mesh.nasset.tex.nasset"
     },
     "60718c73-bca4-da38-2c84-5971d85b8bd9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -928,6 +1185,10 @@
             "203d3d02-88ad-cafd-d878-8b24f6bfb4ce"
         ]
     },
+    "61745576-fc69-a2a4-8a27-67c32b03bbe2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Thumbnails/Lever Right.mesh.nasset.tex.nasset"
+    },
     "62dfe74d-7dc6-71d7-f591-a55d7ed1633e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -944,6 +1205,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right.mesh.nasset",
+        "thumbnail": "61745576-fc69-a2a4-8a27-67c32b03bbe2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -965,6 +1227,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6618ecf2-c9a3-62f4-3a78-859e1ea1e3f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Thumbnails/Flowers 2.mesh.nasset.tex.nasset"
+    },
     "6633f64e-020b-43a7-9460-a45fee030520": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -976,6 +1242,10 @@
         "dependencies": [
             "9c5ce483-62c4-4212-ee03-febec098df59"
         ]
+    },
+    "6668e114-6eb1-4029-957b-408e649eaab6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Yeti/Thumbnails/Yeti.scene.nasset.tex.nasset"
     },
     "67ad8e2c-1c57-e428-919b-1ef4c70fd55e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -993,6 +1263,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Question.mesh.nasset/Pixel Block Question.mesh.nasset",
+        "thumbnail": "fd58d799-1549-0f99-3b06-c73866a8453c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1001,6 +1272,10 @@
             "906cce9e-f8f0-da36-ba74-b7e6469ffee2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "690823b2-0f31-327d-87fd-bad42b6edd99": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crate.mesh.nasset/Thumbnails/Block Crate.mesh.nasset.tex.nasset"
     },
     "69459c09-c7a6-4074-d7c8-35ca4af17343": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1014,10 +1289,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6aff1432-5835-4cb4-95b4-54c1ac7a2fbf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Giant/Giant.scene.nasset",
+        "thumbnail": "53b8d209-bb9e-4dcd-b2e8-bf66ec8ce2e8",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "6ba2ac4f-0adf-e498-85ea-ec1186e39e16": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Blank.mesh.nasset/Block Blank.mesh.nasset",
+        "thumbnail": "48e46d97-1b8a-af50-bffa-a0c0eab8368e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1031,6 +1316,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block GreyBricks.mesh.nasset/Block GreyBricks.mesh.nasset",
+        "thumbnail": "def7a91c-0cff-1de6-202d-d5df42b0b38c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1039,6 +1325,22 @@
             "859845e3-b383-b9d1-df9c-b3130666d856",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "6dbbba86-4449-4c3a-a6e2-6dc6d36d6784": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Hedgehog/Thumbnails/Hedgehog.scene.nasset.tex.nasset"
+    },
+    "6e3087a5-5f4f-4474-b414-ee9c3b536bb1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Chick/Thumbnails/Chick.scene.nasset.tex.nasset"
+    },
+    "6eab2f4d-7f2d-7972-3a8c-ede8196a64ee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Thumbnails/Button Pressed.mesh.nasset.tex.nasset"
+    },
+    "6f783e73-b913-e73e-159c-8d74efc9c052": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Diamond.mesh.nasset/Thumbnails/Shovel Diamond.mesh.nasset.tex.nasset"
     },
     "726dfc0a-f047-f8ee-11fc-c784008b14b9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1056,6 +1358,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crate.mesh.nasset/Block Crate.mesh.nasset",
+        "thumbnail": "690823b2-0f31-327d-87fd-bad42b6edd99",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1065,10 +1368,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7369489b-5897-fa96-94fa-d5d1d31b8c21": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Stone.mesh.nasset/Thumbnails/Axe Stone.mesh.nasset.tex.nasset"
+    },
+    "738b2e21-4446-4cd9-8e34-7c78d19db38f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Chicken/Chicken.scene.nasset",
+        "thumbnail": "f3fc4ee8-570b-497e-b322-30e1776f4769",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "749c311a-5764-73e1-703a-1e3ebc939029": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small.mesh.nasset",
+        "thumbnail": "55db1c81-9d5e-264e-f257-f1e2356e75cc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1077,6 +1394,14 @@
             "516871f8-9d1d-3aba-be5d-a940cb7c9d19",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "74c8f4d5-b149-a503-6083-012099aeac44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Thumbnails/Crystal Big.mesh.nasset.tex.nasset"
+    },
+    "74d44aa5-e374-4d59-9315-6b85e60816a0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Wizard/Thumbnails/Wizard.scene.nasset.tex.nasset"
     },
     "751824cd-2015-421b-b24e-2d30c4b3846f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1116,6 +1441,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Gold.mesh.nasset/Shovel Gold.mesh.nasset",
+        "thumbnail": "3cb73b85-c32c-9113-6057-034e9960e454",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1129,6 +1455,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Dirt.mesh.nasset/Pixel Block Dirt.mesh.nasset",
+        "thumbnail": "1e69e9e5-9940-0511-4120-e631e88af610",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1142,6 +1469,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left.mesh.nasset",
+        "thumbnail": "072e4961-06b3-0554-8f49-2252c04b0671",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1163,6 +1491,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "78077653-0f5f-9660-b19b-e5af4a6161d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crystal.mesh.nasset/Thumbnails/Block Crystal.mesh.nasset.tex.nasset"
+    },
     "783a7192-54c8-a133-bb43-47406b1fef76": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1175,10 +1507,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "79641356-1771-4888-9148-9e8b4b5b55ad": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Goblin/Goblin.scene.nasset",
+        "thumbnail": "55b6a5f5-3764-421f-a102-4626e5f9e501",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "7a743e96-d3f0-2d85-32a1-3f96656e2b8b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Coal.mesh.nasset/Thumbnails/Pixel Block Coal.mesh.nasset.tex.nasset"
+    },
     "7aa6fa0f-b475-42f1-25f2-1e38fe4984ea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Diamond.mesh.nasset/Pixel Block Diamond.mesh.nasset",
+        "thumbnail": "cf94dc90-d20a-3c4f-0267-e684281e95d5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1208,6 +1554,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End.mesh.nasset",
+        "thumbnail": "ffbeccd4-5182-cf3b-185d-f28564ee14d4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1257,6 +1604,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2.mesh.nasset",
+        "thumbnail": "055b629a-dccf-86bd-d82d-c7406f03f5a7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1282,6 +1630,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Ice.mesh.nasset/Block Ice.mesh.nasset",
+        "thumbnail": "ff345495-1b3a-492f-5482-8e0f13f721be",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1290,6 +1639,14 @@
             "7d071d59-12a7-f844-7e18-92319efbc7df",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7ebe793a-95c9-06e0-b07e-4ceebc229155": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Dirt.mesh.nasset/Thumbnails/Block Dirt.mesh.nasset.tex.nasset"
+    },
+    "804d50e7-8deb-ff17-15a8-0b08ee0b591e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Metal.mesh.nasset/Thumbnails/Block Metal.mesh.nasset.tex.nasset"
     },
     "809b712f-7745-4f36-aee3-20b93c14ce99": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1306,6 +1663,7 @@
     "814c84d3-66f2-a21b-b450-e60e47921431": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blox Pixel.mtli.nasset",
+        "thumbnail": "18ab2d99-05c1-935f-9c09-9ffd739bd258",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "e01aedec-4606-8e12-bb92-fac53c0c3e3f"
@@ -1315,6 +1673,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
+        "thumbnail": "122db259-1b40-2481-9c51-d05b91c0dc66",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1328,6 +1687,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Wood.mesh.nasset/Axe Wood.mesh.nasset",
+        "thumbnail": "3e25e2d0-181e-e077-dcbb-fa857a89ca43",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1341,6 +1701,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Stone.mesh.nasset/Pickaxe Stone.mesh.nasset",
+        "thumbnail": "2b9ddaf3-7eee-3a10-797b-f80633bd88b7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1362,10 +1723,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "83aaa2ca-f415-82c9-04cb-343dcc3841a7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Thumbnails/Tree 2.mesh.nasset.tex.nasset"
+    },
     "83fbac67-4e41-bcd6-eb30-44553f71b5c4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key.mesh.nasset",
+        "thumbnail": "f90205e3-3b58-8d3b-b4f6-ea6fb3889210",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1423,10 +1789,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8998ab74-dabe-9ba2-6e3c-e24c15495379": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Yellow.mesh.nasset/Thumbnails/Pixel Block Bricks Yellow.mesh.nasset.tex.nasset"
+    },
+    "8a7826a5-b594-d283-7296-06eafbdd3f20": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Thumbnails/Cart.mesh.nasset.tex.nasset"
+    },
+    "8c427901-a13a-9c13-c2dc-99a27771cec5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Stone.mesh.nasset/Thumbnails/Sword Stone.mesh.nasset.tex.nasset"
+    },
     "8c8bc543-b43b-12a9-ce33-603467b0160d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3.mesh.nasset",
+        "thumbnail": "02026a58-192f-7ffa-8102-906c72f1429f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1440,6 +1819,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Wood.mesh.nasset/Pickaxe Wood.mesh.nasset",
+        "thumbnail": "9f5df445-3f89-f292-513a-18452caf49be",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1453,6 +1833,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2.mesh.nasset",
+        "thumbnail": "83aaa2ca-f415-82c9-04cb-343dcc3841a7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1474,6 +1855,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8fdde8cb-d57c-b812-5026-39ffb0ad4378": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Wood.mesh.nasset/Thumbnails/Block Wood.mesh.nasset.tex.nasset"
+    },
+    "903d7b45-efea-d6db-b681-a6e5d0302806": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Thumbnails/Chest Closed.mesh.nasset.tex.nasset"
+    },
     "906cce9e-f8f0-da36-ba74-b7e6469ffee2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1490,6 +1879,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3.mesh.nasset",
+        "thumbnail": "c93dee91-6804-a23e-6ce9-7ed8f2272b64",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1503,6 +1893,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Wood.mesh.nasset/Sword Wood.mesh.nasset",
+        "thumbnail": "434f9976-73a6-bcf8-9295-71bc33357a47",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1528,10 +1919,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Millicent/Textures/T_Blox_Atlas_D.tex.nasset"
     },
+    "932f1b7e-5fdd-dfb0-64f4-eddd7bc1e7d0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Diamond.mesh.nasset/Thumbnails/Block Diamond.mesh.nasset.tex.nasset"
+    },
     "934786c8-97db-08b3-49e4-62079ba1c0c5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1.mesh.nasset",
+        "thumbnail": "3e78b87f-aa4e-58ce-cc45-3966d2f0aba0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1577,6 +1973,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart.mesh.nasset",
+        "thumbnail": "8a7826a5-b594-d283-7296-06eafbdd3f20",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1590,6 +1987,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Grass.mesh.nasset/Pixel Block Grass.mesh.nasset",
+        "thumbnail": "1ffd57de-9f5f-2b04-29be-dbf9e3ac33e4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1599,6 +1997,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "970e58d8-a245-8b79-da09-f26c9f459089": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Thumbnails/Crystal Small.mesh.nasset.tex.nasset"
+    },
+    "97a5d411-2de6-4e7d-a366-2191cae16bae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Thumbnails/Pixel Block Bricks Dark.mesh.nasset.tex.nasset"
+    },
     "994a390c-6fb1-4afe-a93d-ef69cadfb1d6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/James/Thumbnails/James.scene.nasset.tex.nasset"
@@ -1607,6 +2013,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big.mesh.nasset",
+        "thumbnail": "3edc05db-d60b-bbbe-33d0-9a5e25d53258",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1628,6 +2035,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Block Square.mesh.nasset/Pixel Block Block Square.mesh.nasset",
+        "thumbnail": "5fd17871-dcf5-afe2-8885-93651793df93",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1641,6 +2049,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Leaves.mesh.nasset/Pixel Block Leaves.mesh.nasset",
+        "thumbnail": "04b3bc84-8dda-4002-3114-5bb7c5c1096d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1656,6 +2065,15 @@
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "e8527f95-ce8f-38e2-3169-0de7e5ba416e"
+        ]
+    },
+    "9b811889-80c5-4f8e-8f75-ab4cdc28dd1b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Demon/Demon.scene.nasset",
+        "thumbnail": "f208132d-9fad-4bef-a950-ae4f4237fbc8",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
     },
     "9c2390a6-3aa0-cd51-65d8-580d852c03f3": {
@@ -1738,6 +2156,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Gold.mesh.nasset/Axe Gold.mesh.nasset",
+        "thumbnail": "a68ee52d-eef5-3162-5db6-4adc48e6d979",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1746,6 +2165,14 @@
             "2fb55f96-5b86-bfa8-129f-b85bf4ac2129",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9f5df445-3f89-f292-513a-18452caf49be": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Wood.mesh.nasset/Thumbnails/Pickaxe Wood.mesh.nasset.tex.nasset"
+    },
+    "a02cf897-5f51-8983-1621-54425f01cfb6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Thumbnails/Rock 2.mesh.nasset.tex.nasset"
     },
     "a10b04d7-32f0-209a-5cd3-9b06295ce76f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1787,6 +2214,10 @@
             "f3978e85-7baf-0752-cd38-4ae534d4e35f"
         ]
     },
+    "a4037dae-9844-4444-b477-269da74cdce7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Wolf/Thumbnails/Wolf.scene.nasset.tex.nasset"
+    },
     "a4626263-2d0a-2d3b-cd1f-d6315302ba03": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1799,9 +2230,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a5e9c149-6e4f-43e5-be80-d5edeb2471b4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Horse/Horse.scene.nasset",
+        "thumbnail": "ca462438-a8fe-4dbd-8cb7-2aa8aa6d5bff",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "a5f0fde2-c954-64e9-ca19-8fc9c29ea79c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Tony/Textures/T_Blox_Atlas_D.tex.nasset"
+    },
+    "a683595a-cb72-418d-ab6d-39697778630a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Cat/Thumbnails/Cat.scene.nasset.tex.nasset"
     },
     "a687e655-14f1-4590-8519-5b0bddd76e43": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1810,6 +2254,14 @@
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
+    },
+    "a68ee52d-eef5-3162-5db6-4adc48e6d979": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Gold.mesh.nasset/Thumbnails/Axe Gold.mesh.nasset.tex.nasset"
+    },
+    "a7548ce9-d7ce-4758-9b68-45e2d96fea32": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Pig/Thumbnails/Pig.scene.nasset.tex.nasset"
     },
     "a82ee2e3-11ba-7259-4460-e9170871c16b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1843,6 +2295,10 @@
             "9c5ce483-62c4-4212-ee03-febec098df59"
         ]
     },
+    "ab55359e-df5a-1750-5a3a-5135037f626f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Diamond.mesh.nasset/Thumbnails/Axe Diamond.mesh.nasset.tex.nasset"
+    },
     "ab85e314-2a33-1563-c691-aa1cc789bfe8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1855,10 +2311,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "abf06c53-082a-5cf3-5b2c-ba794b6cb8b5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Grass.mesh.nasset/Thumbnails/Block Grass.mesh.nasset.tex.nasset"
+    },
     "acad21ff-031d-4e8c-f561-6857aba361f3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small.mesh.nasset",
+        "thumbnail": "4ac6ff41-d6f7-2e3f-d066-b82c1486bf39",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1872,6 +2333,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Block Coal.mesh.nasset",
+        "thumbnail": "ba2dd71d-37a2-6889-8a6b-b34fd4325c88",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1892,6 +2354,10 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "adb1ff86-be4d-4e5d-2055-168c71905089": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Gold.mesh.nasset/Thumbnails/Pickaxe Gold.mesh.nasset.tex.nasset"
     },
     "ae2f7eb2-31d4-c41e-24c1-3a974fdd45d4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1921,6 +2387,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Planks.mesh.nasset/Pixel Block Planks.mesh.nasset",
+        "thumbnail": "e9967806-e111-4e28-bc41-3c3825d6c773",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1942,10 +2409,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b1104f46-5998-78b3-2df4-64cec0a3b45d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Stone.mesh.nasset/Thumbnails/Pixel Block Stone.mesh.nasset.tex.nasset"
+    },
     "b120c369-f08c-9c7c-3c93-b35f28cdb9b8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Exclamation.mesh.nasset/Pixel Block Exclamation.mesh.nasset",
+        "thumbnail": "0d1d3477-90bf-893f-b37a-5651edffe7f2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1954,6 +2426,10 @@
             "cbd55159-2203-e979-31b6-ab1cd965c4e0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b1604b0e-193c-2c8b-eb14-de52e90b5a73": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Thumbnails/Door Closed.mesh.nasset.tex.nasset"
     },
     "b1b79d73-96da-421b-2669-7194768573f9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1979,6 +2455,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner.mesh.nasset",
+        "thumbnail": "18280e21-5951-d880-c161-2d655a371464",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1990,15 +2467,23 @@
     },
     "b40a0bae-7020-e5f3-0ce2-0d54a4670226": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Animals/Cat/SK_Cat.scene.nasset/SK Cat.mesh.nasset/SK Cat.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9b0db98b-05b0-2cf3-d54c-c876c7a5b742",
+            "7ddd2745-5f07-6a6a-f257-a0aa9f717af4",
+            "0912bc24-e492-7f34-5c53-3169b8a75fe4",
+            "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
         ]
     },
     "b48d4260-4553-b3e2-10bc-3ca3cfa7b004": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush.mesh.nasset",
+        "thumbnail": "1a66be65-1105-dcb5-8e3f-1e1bfa588e74",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2012,6 +2497,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Gold.mesh.nasset/Pickaxe Gold.mesh.nasset",
+        "thumbnail": "adb1ff86-be4d-4e5d-2055-168c71905089",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2025,6 +2511,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Coal.mesh.nasset/Pixel Block Coal.mesh.nasset",
+        "thumbnail": "7a743e96-d3f0-2d85-32a1-3f96656e2b8b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2037,6 +2524,10 @@
     "b7096c66-4c7c-6eb7-1f10-46ab7d8e679d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Rose/Textures/T_Blox_Atlas_D.tex.nasset"
+    },
+    "ba2dd71d-37a2-6889-8a6b-b34fd4325c88": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Thumbnails/Block Coal.mesh.nasset.tex.nasset"
     },
     "baedd0ff-4cec-9a27-9f97-3c57171fcb66": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2062,6 +2553,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bba30b51-ca4e-1119-c1cd-851af04d3295": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Blank.mesh.nasset/Thumbnails/Pixel Block Blank.mesh.nasset.tex.nasset"
+    },
+    "bc0d1883-d59a-61d8-b078-5120fc05caf9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Diamond.mesh.nasset/Thumbnails/Sword Diamond.mesh.nasset.tex.nasset"
+    },
     "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2079,10 +2578,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bee50c1e-c0a8-4dbc-2a90-80060354cc94": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Ice.mesh.nasset/Thumbnails/Pixel Block Ice.mesh.nasset.tex.nasset"
+    },
     "bf196f86-34c1-fc08-b7cc-8e7e379cfe76": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Stone.mesh.nasset/Axe Stone.mesh.nasset",
+        "thumbnail": "7369489b-5897-fa96-94fa-d5d1d31b8c21",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2096,6 +2600,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small.mesh.nasset",
+        "thumbnail": "970e58d8-a245-8b79-da09-f26c9f459089",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2109,6 +2614,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Stone.mesh.nasset/Sword Stone.mesh.nasset",
+        "thumbnail": "8c427901-a13a-9c13-c2dc-99a27771cec5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2134,6 +2640,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Cheese.mesh.nasset/Block Cheese.mesh.nasset",
+        "thumbnail": "1edb408b-fb3c-01ce-47b5-821c472eb0c5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2178,10 +2685,15 @@
     "c642b56d-269a-a330-6ad0-09a44f403b84": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blox Atlas.mtli.nasset",
+        "thumbnail": "2d7ab3b6-a812-cc38-ff65-b87f91e9a6b7",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "55fe0c42-3b87-2dbe-d74e-02130d4e273d"
         ]
+    },
+    "c6d6467f-2cbc-6a60-2f85-a02fb6c4d82b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Grey.mesh.nasset/Thumbnails/Pixel Block Bricks Grey.mesh.nasset.tex.nasset"
     },
     "c82137e3-7110-c186-7415-d0696ae5b1ff": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2195,6 +2707,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c93dee91-6804-a23e-6ce9-7ed8f2272b64": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Thumbnails/Tree 3.mesh.nasset.tex.nasset"
+    },
+    "ca0f8d9e-295e-5006-0aea-98758b7e877f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Snow.mesh.nasset/Thumbnails/Pixel Block Snow.mesh.nasset.tex.nasset"
+    },
+    "ca462438-a8fe-4dbd-8cb7-2aa8aa6d5bff": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Horse/Thumbnails/Horse.scene.nasset.tex.nasset"
+    },
     "cbd55159-2203-e979-31b6-ab1cd965c4e0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2207,10 +2731,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cc7da273-d83f-aadf-f4ca-b006aa5c72b8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Red.mesh.nasset/Thumbnails/Pixel Block Bricks Red.mesh.nasset.tex.nasset"
+    },
     "cd8e34d0-f19d-369a-1ebc-2e2c91942a81": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo.mesh.nasset",
+        "thumbnail": "da73b9a4-87e0-2672-e1c4-c6c6f4389551",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2236,6 +2765,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Diamond.mesh.nasset/Pickaxe Diamond.mesh.nasset",
+        "thumbnail": "dbf13930-47de-597b-039c-00e63440ef5e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2245,10 +2775,31 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cf94dc90-d20a-3c4f-0267-e684281e95d5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Diamond.mesh.nasset/Thumbnails/Pixel Block Diamond.mesh.nasset.tex.nasset"
+    },
+    "d02c3382-5d3b-4cc5-bade-1f84cbf5b1df": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Wizard/Wizard.scene.nasset",
+        "thumbnail": "74d44aa5-e374-4d59-9315-6b85e60816a0",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "d07ed76e-13b1-9c22-4968-17ca7e3dc463": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/Cat/SK_Cat.scene.nasset/SK Cat.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "d0cab6a2-3eeb-b8a5-6d02-74a185202e26": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Gold.mesh.nasset/Thumbnails/Sword Gold.mesh.nasset.tex.nasset"
+    },
+    "d17d0edb-61a2-a5ea-6468-3deaf47b195d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Thumbnails/Rail Corner.mesh.nasset.tex.nasset"
     },
     "d1fa97eb-5b40-f39e-39e8-ca1cfda89be3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2261,6 +2812,18 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d23fea67-4346-702b-e936-f82a32593398": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Stone.mesh.nasset/Thumbnails/Shovel Stone.mesh.nasset.tex.nasset"
+    },
+    "d2b6c5e0-6b9f-4d63-96c5-bde35ce7b8af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Zombie/Thumbnails/Zombie.scene.nasset.tex.nasset"
+    },
+    "d37067db-500c-5e38-cc98-c53d380fe1e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Thumbnails/Chest Open.mesh.nasset.tex.nasset"
     },
     "d3c77154-13e4-e735-28e0-dd079636c5c2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2301,6 +2864,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Diamond.mesh.nasset/Sword Diamond.mesh.nasset",
+        "thumbnail": "bc0d1883-d59a-61d8-b078-5120fc05caf9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2310,10 +2874,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d73dfb1a-f6dc-66da-4b09-4e8aae33bdde": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Thumbnails/Dead Tree 3.mesh.nasset.tex.nasset"
+    },
     "d91d7019-e34f-971c-2b9a-d4f9ad70b577": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Wood.mesh.nasset/Shovel Wood.mesh.nasset",
+        "thumbnail": "31f0c4e0-674a-302e-4b5a-8ea25139ad24",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2327,6 +2896,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Diamond.mesh.nasset/Block Diamond.mesh.nasset",
+        "thumbnail": "932f1b7e-5fdd-dfb0-64f4-eddd7bc1e7d0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2360,6 +2930,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "da73b9a4-87e0-2672-e1c4-c6c6f4389551": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Thumbnails/Bamboo.mesh.nasset.tex.nasset"
+    },
     "dad18a4b-dcc0-bccf-4ad0-5e2c8652d514": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2381,6 +2955,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1.mesh.nasset",
+        "thumbnail": "1f65d7de-8abe-6c42-4847-f5f34464f46d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2390,10 +2965,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dbeb63fe-1c9a-4e41-b9fc-7a5b7b82b78c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Knight/Knight.scene.nasset",
+        "thumbnail": "086d5475-30c7-4d0d-aa07-b7046f17d469",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "dbf13930-47de-597b-039c-00e63440ef5e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Diamond.mesh.nasset/Thumbnails/Pickaxe Diamond.mesh.nasset.tex.nasset"
+    },
     "dc44e404-cf1c-9085-05fe-2da6e7e53f53": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2.mesh.nasset",
+        "thumbnail": "6618ecf2-c9a3-62f4-3a78-859e1ea1e3f0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2407,6 +2996,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom.mesh.nasset",
+        "thumbnail": "f7e069ea-2648-6cee-196c-52f6721dedbf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2428,10 +3018,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "def7a91c-0cff-1de6-202d-d5df42b0b38c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block GreyBricks.mesh.nasset/Thumbnails/Block GreyBricks.mesh.nasset.tex.nasset"
+    },
     "df02ace2-d61e-3f86-4a03-0ac6fa2ece8d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Dirt.mesh.nasset/Block Dirt.mesh.nasset",
+        "thumbnail": "7ebe793a-95c9-06e0-b07e-4ceebc229155",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2445,6 +3040,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2.mesh.nasset",
+        "thumbnail": "08fafa96-8ed6-6777-dec2-cdbb0eef9894",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2458,10 +3054,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/textures/T_Blox_Pixel_Atlas_D.tex.nasset"
     },
+    "e12ac7d0-60cd-40bd-813f-2bed00c80360": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Raccoon/Thumbnails/Raccoon.scene.nasset.tex.nasset"
+    },
     "e434dd93-1a57-0fcc-6bda-1beaaab3fd42": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Snow.mesh.nasset/Block Snow.mesh.nasset",
+        "thumbnail": "350d42b3-d175-c699-e19f-a2ef3e0e65a1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2471,10 +3072,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e526605c-c47e-4df5-b4c7-05d61e22b2c1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Sheep/Sheep.scene.nasset",
+        "thumbnail": "e5d7c895-a4fe-4acd-9ebd-2737598e2629",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "e59a4f1a-33bd-8ef6-127d-d6094877fd7e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Grass.mesh.nasset/Block Grass.mesh.nasset",
+        "thumbnail": "abf06c53-082a-5cf3-5b2c-ba794b6cb8b5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2484,10 +3095,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e5d7c895-a4fe-4acd-9ebd-2737598e2629": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Sheep/Thumbnails/Sheep.scene.nasset.tex.nasset"
+    },
     "e6ce865f-97c4-70ca-43d9-de7ffdfd7be9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center.mesh.nasset",
+        "thumbnail": "34f4489f-6324-49ed-289a-2b8c9e5f637a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2500,6 +3116,10 @@
     "e8527f95-ce8f-38e2-3169-0de7e5ba416e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Cat/Textures/T_Blox_Atlas_D.tex.nasset"
+    },
+    "e9967806-e111-4e28-bc41-3c3825d6c773": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Planks.mesh.nasset/Thumbnails/Pixel Block Planks.mesh.nasset.tex.nasset"
     },
     "ea8a1694-d44a-bb26-f38f-110643357759": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2525,10 +3145,29 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ec905431-6d76-4b95-a828-98e9855c5936": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Raccoon/Raccoon.scene.nasset",
+        "thumbnail": "e12ac7d0-60cd-40bd-813f-2bed00c80360",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "ed607b95-2084-47fd-896a-bb878054ec72": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Skeleton/Skeleton.scene.nasset",
+        "thumbnail": "16e57208-169d-447e-8ab4-ec898023d91b",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "ee30f0b2-305a-ec08-3c47-78cc80a4eb8c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Blank.mesh.nasset/Pixel Block Blank.mesh.nasset",
+        "thumbnail": "bba30b51-ca4e-1119-c1cd-851af04d3295",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2554,6 +3193,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Diamond.mesh.nasset/Axe Diamond.mesh.nasset",
+        "thumbnail": "ab55359e-df5a-1750-5a3a-5135037f626f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2567,6 +3207,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Pixel Block Bricks Dark.mesh.nasset",
+        "thumbnail": "97a5d411-2de6-4e7d-a366-2191cae16bae",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2592,6 +3233,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "thumbnail": "903d7b45-efea-d6db-b681-a6e5d0302806",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2605,6 +3247,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed.mesh.nasset",
+        "thumbnail": "6eab2f4d-7f2d-7972-3a8c-ede8196a64ee",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2622,14 +3265,23 @@
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
     },
+    "f208132d-9fad-4bef-a950-ae4f4237fbc8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Demon/Thumbnails/Demon.scene.nasset.tex.nasset"
+    },
     "f3978e85-7baf-0752-cd38-4ae534d4e35f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/James/Textures/T_Blox_Atlas_D.tex.nasset"
+    },
+    "f3fc4ee8-570b-497e-b322-30e1776f4769": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Chicken/Thumbnails/Chicken.scene.nasset.tex.nasset"
     },
     "f4028677-0cbb-9b80-132a-971a264f92a8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline.mesh.nasset",
+        "thumbnail": "04066e10-7a1b-d2b1-f24b-e6d29ab66eef",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2643,6 +3295,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1.mesh.nasset",
+        "thumbnail": "5b03df58-9e1a-af93-7ee2-3f8b62186ef4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2676,10 +3329,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f58b84ce-0f92-4a27-9eba-c00ca0adf245": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Dog/Thumbnails/Dog.scene.nasset.tex.nasset"
+    },
     "f5c297d6-e416-d615-c8b7-f6e64c6f41b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid.mesh.nasset",
+        "thumbnail": "0c1340c7-24df-3714-33c9-29b043a58c0d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2698,6 +3356,14 @@
             "83104656-97ea-a3de-94b9-7703faeb6e36",
             "a37760e8-8103-51c4-030b-96bc532b936c"
         ]
+    },
+    "f7e069ea-2648-6cee-196c-52f6721dedbf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Thumbnails/Mushroom.mesh.nasset.tex.nasset"
+    },
+    "f90205e3-3b58-8d3b-b4f6-ea6fb3889210": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Thumbnails/Key.mesh.nasset.tex.nasset"
     },
     "f99943f3-93c6-1d68-77af-0cad8581a1c7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2723,6 +3389,27 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fb995bb5-ccae-4ae4-a528-7e880ec86720": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Chick/Chick.scene.nasset",
+        "thumbnail": "6e3087a5-5f4f-4474-b414-ee9c3b536bb1",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "fc9390ce-68d5-f79a-282f-8c3daa599b7f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Wood.mesh.nasset/Thumbnails/Pixel Block Wood.mesh.nasset.tex.nasset"
+    },
+    "fd58d799-1549-0f99-3b06-c73866a8453c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Question.mesh.nasset/Thumbnails/Pixel Block Question.mesh.nasset.tex.nasset"
+    },
+    "ff345495-1b3a-492f-5482-8e0f13f721be": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Ice.mesh.nasset/Thumbnails/Block Ice.mesh.nasset.tex.nasset"
+    },
     "ff72915c-77c4-2340-0c0d-ef00d5d4f765": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2734,6 +3421,10 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "ffbeccd4-5182-cf3b-185d-f28564ee14d4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Thumbnails/Fence End.mesh.nasset.tex.nasset"
     },
     "guid": "86f30574-cdf3-879b-cd6d-44140bebf9af"
 }
