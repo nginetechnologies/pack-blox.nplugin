@@ -2,6 +2,7 @@
     "0180caa5-9346-c94c-906d-e1e1f191c3df": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Players/Tony/Material Instances/Tony.mtli.nasset",
+        "thumbnail": "b51cc9bc-692f-67cf-459c-f9ee20d095f1",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "a5f0fde2-c954-64e9-ca19-8fc9c29ea79c"
@@ -217,6 +218,14 @@
         "dependencies": [
             "814c84d3-66f2-a21b-b450-e60e47921431",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0f66f3a5-194d-40b3-b7b0-c55a6d07fe15": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Cat/Cat_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
         ]
     },
     "0fedefe4-687b-944d-ae99-4f2c62320467": {
@@ -451,6 +460,7 @@
     "211c4755-f6c3-a0d9-55d2-aeeda7ac4151": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Players/Rose/Material Instances/Rose.mtli.nasset",
+        "thumbnail": "980c880d-02d7-c051-7d64-8c73fe977e10",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "b7096c66-4c7c-6eb7-1f10-46ab7d8e679d"
@@ -730,6 +740,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3c5d27ae-e6b6-4a3b-8f76-2c23b41cc7ed": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Cat/Cat_Jump_End.anim.nasset",
+        "dependencies": [
+            "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
+        ]
+    },
     "3c80c6a6-8d10-6a95-7313-e4887b9217d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -990,6 +1008,10 @@
             "c45434f2-c737-b238-4b66-2a6f025d047e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "4f4622b6-aa85-e0cf-5f3b-fe686e0ea0f6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Players/James/Material Instances/Thumbnails/James.mtli.nasset.tex.nasset"
     },
     "516871f8-9d1d-3aba-be5d-a940cb7c9d19": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2005,6 +2027,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Thumbnails/Pixel Block Bricks Dark.mesh.nasset.tex.nasset"
     },
+    "980c880d-02d7-c051-7d64-8c73fe977e10": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Players/Rose/Material Instances/Thumbnails/Rose.mtli.nasset.tex.nasset"
+    },
     "994a390c-6fb1-4afe-a93d-ef69cadfb1d6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/James/Thumbnails/James.scene.nasset.tex.nasset"
@@ -2026,6 +2052,7 @@
     "9a014f95-5b9c-d2e4-977d-edb4947a853c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Players/Millicent/Material Instances/Millicent.mtli.nasset",
+        "thumbnail": "f55741d0-b519-be8a-6702-f7155dd956f9",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "92531837-09b3-c740-98b9-ae0cd30315a0"
@@ -2209,6 +2236,7 @@
     "a37760e8-8103-51c4-030b-96bc532b936c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Players/James/Material Instances/James.mtli.nasset",
+        "thumbnail": "4f4622b6-aa85-e0cf-5f3b-fe686e0ea0f6",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "f3978e85-7baf-0752-cd38-4ae534d4e35f"
@@ -2353,6 +2381,14 @@
         "dependencies": [
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ad9d57de-b9cc-4b05-8010-02063d448d9f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Cat/Cat_Jump_Start.anim.nasset",
+        "dependencies": [
+            "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
         ]
     },
     "adb1ff86-be4d-4e5d-2055-168c71905089": {
@@ -2506,6 +2542,10 @@
             "a4626263-2d0a-2d3b-cd1f-d6315302ba03",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b51cc9bc-692f-67cf-459c-f9ee20d095f1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Players/Tony/Material Instances/Thumbnails/Tony.mtli.nasset.tex.nasset"
     },
     "b6cf1b93-20fb-ff91-8491-226715ecc0f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3317,6 +3357,10 @@
             "c4693034-e3f4-c1ec-c647-d4c6187ad327"
         ]
     },
+    "f55741d0-b519-be8a-6702-f7155dd956f9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Players/Millicent/Material Instances/Thumbnails/Millicent.mtli.nasset.tex.nasset"
+    },
     "f56c7d37-f9b9-5eee-4e1e-c6d86df05424": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3355,6 +3399,14 @@
             "7802e66d-cfdc-c5e3-867a-8bfea9e147d0",
             "83104656-97ea-a3de-94b9-7703faeb6e36",
             "a37760e8-8103-51c4-030b-96bc532b936c"
+        ]
+    },
+    "f781be53-f2b0-40ed-a69b-98ad37f1b9f8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Cat/Cat_Idle.anim.nasset",
+        "dependencies": [
+            "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
         ]
     },
     "f7e069ea-2648-6cee-196c-52f6721dedbf": {

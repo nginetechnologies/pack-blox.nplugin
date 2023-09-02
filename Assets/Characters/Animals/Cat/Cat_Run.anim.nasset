@@ -1,0 +1,20 @@
+{
+    "source": "A_Cat_Run.fbx",
+    "skeleton": "d07ed76e-13b1-9c22-4968-17ca7e3dc463",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "8a5991b7-05d1-4025-beee-4ce27020af0e"
+        }
+    ],
+    "guid": "8a5991b7-05d1-4025-beee-4ce27020af0e",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
+    ]
+}
