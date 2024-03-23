@@ -1,0 +1,75 @@
+{
+    "guid": "64402dcf-38c7-ef76-3381-8224d9538a5e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "944a59ce-a9ca-d1ff-297f-d9c60738ba64",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1e44b1db-121b-a249-5760-64d70e53a555",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Pig Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "4ff07552-0cef-013a-7025-9ebcc98cf8dd",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "acb66a0f-02b1-7e2d-bfe2-974cfde01902",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Pig Pig"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7427b22a-6d14-c2d3-dc99-10cf91b5c43a",
+                                "material_instance": "382f326c-6852-9b00-fc62-f72503c0d7cc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3c84cbea-a467-d22e-c2b1-08c17427706c"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "76001e45-da04-8678-696d-7649c16717e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "64402dcf-38c7-ef76-3381-8224d9538a5e"
+    },
+    "dependencies": [
+        "382f326c-6852-9b00-fc62-f72503c0d7cc",
+        "7427b22a-6d14-c2d3-dc99-10cf91b5c43a",
+        "3c84cbea-a467-d22e-c2b1-08c17427706c",
+        "76001e45-da04-8678-696d-7649c16717e7"
+    ]
+}

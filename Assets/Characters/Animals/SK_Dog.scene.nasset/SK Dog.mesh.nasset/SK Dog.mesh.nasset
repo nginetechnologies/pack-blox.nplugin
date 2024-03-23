@@ -1,0 +1,75 @@
+{
+    "guid": "520abdbb-d08c-c735-fe62-673cb26e4d61",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "17b883f8-a998-3d87-31df-6fbf4ab64a1d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "7cafcca8-c2f6-31a0-154d-8d7b9e3ab3b3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Dog Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "1a990be6-dec6-dac7-da53-7f0d7bbf8a79",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0ea6276c-9212-9cb9-f2dc-eff13796ede2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Dog Dog"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d18553fe-30b4-979a-5661-67f5ac87c742",
+                                "material_instance": "d9619446-4fbd-0479-43e3-198404f2231d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "19d3cb7a-8e5f-3f70-dbe2-4c1bcf7f0913"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "520abdbb-d08c-c735-fe62-673cb26e4d61"
+    },
+    "dependencies": [
+        "d9619446-4fbd-0479-43e3-198404f2231d",
+        "d18553fe-30b4-979a-5661-67f5ac87c742",
+        "19d3cb7a-8e5f-3f70-dbe2-4c1bcf7f0913",
+        "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+    ]
+}

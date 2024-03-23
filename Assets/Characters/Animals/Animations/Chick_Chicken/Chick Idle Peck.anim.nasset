@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Chick_Idle_Peck.fbx",
+    "skeleton": "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "4c2edbd6-ac31-41e2-9f72-37149c722b59"
         }
     ],
-    "guid": "",
+    "guid": "4c2edbd6-ac31-41e2-9f72-37149c722b59",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29"
     ]
 }

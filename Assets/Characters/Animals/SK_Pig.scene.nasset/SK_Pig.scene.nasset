@@ -1,0 +1,34 @@
+{
+    "guid": "682c575c-4621-848f-2d9e-1a757c666d31",
+    "source": "../SK_Pig.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9743659a-ef46-76da-3758-9675f9ac302c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Pig"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25fee01e-4c05-70a6-d108-776d8e6f6f6c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Pig"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "64402dcf-38c7-ef76-3381-8224d9538a5e"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "682c575c-4621-848f-2d9e-1a757c666d31"
+    },
+    "dependencies": [
+        "64402dcf-38c7-ef76-3381-8224d9538a5e"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "guid": "a2106d4b-05d8-b8ef-4ade-447c28ea4780",
+    "source": "../SK_Dog.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3a16b566-b2c0-5c07-1b43-18a8e222f18f",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Dog"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2ef10288-2a10-75a4-954c-1d3fd428e7a9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Dog"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "520abdbb-d08c-c735-fe62-673cb26e4d61"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a2106d4b-05d8-b8ef-4ade-447c28ea4780"
+    },
+    "dependencies": [
+        "520abdbb-d08c-c735-fe62-673cb26e4d61"
+    ]
+}
