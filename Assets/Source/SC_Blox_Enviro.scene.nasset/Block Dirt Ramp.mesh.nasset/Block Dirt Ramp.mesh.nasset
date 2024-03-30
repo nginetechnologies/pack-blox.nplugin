@@ -1,20 +1,20 @@
 {
-    "guid": "6bc871d4-c39d-a3a7-2fb8-7761f2e3f0fd",
+    "guid": "0347ca33-22fa-afc3-7762-b32fe3078536",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "0a2db420-4c52-0ed5-02fa-d9b933db09f2",
+    "instanceGuid": "a015da32-0c00-c0d4-cef9-ba317c3fcec0",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "54262a56-57b4-3ccd-ab3e-5da762a75025",
+            "instanceGuid": "6c1c48a4-328e-839f-9d27-1ef7641b2e80",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Block Dirt 3x5.002 Physics Body"
+                    "name": "Block Dirt Ramp Physics Body"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "b96a4d9e-7092-66c6-521d-79413e68b787",
+                    "instanceGuid": "6f0a22b8-f455-7b36-aed2-fd81450eea95",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Block Dirt 3x5.002 Blox Atlas Collider"
+                            "name": "Block Dirt Ramp Blox Atlas Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "d4f80259-cb25-3cf8-c6cf-4db4615fb651",
+                            "instanceGuid": "0a520767-3306-6e9b-77cf-91d2814ecf4b",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Block Dirt 3x5.002 Blox Atlas"
+                                    "name": "Block Dirt Ramp Blox Atlas"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "ac969e74-ece0-9cb5-f65d-da5907ff2bae",
+                                "mesh": "00c6e5c2-708f-7d89-280e-e17ceb3ed550",
                                 "material_instance": "c642b56d-269a-a330-6ad0-09a44f403b84"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "ac969e74-ece0-9cb5-f65d-da5907ff2bae"
+                        "mesh": "00c6e5c2-708f-7d89-280e-e17ceb3ed550"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,11 +64,11 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "6bc871d4-c39d-a3a7-2fb8-7761f2e3f0fd"
+        "scene": "0347ca33-22fa-afc3-7762-b32fe3078536"
     },
     "dependencies": [
         "c642b56d-269a-a330-6ad0-09a44f403b84",
-        "ac969e74-ece0-9cb5-f65d-da5907ff2bae",
+        "00c6e5c2-708f-7d89-280e-e17ceb3ed550",
         "db5dc618-2cfe-44e9-a319-69c503d090e7"
     ]
 }

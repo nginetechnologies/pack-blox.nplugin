@@ -1,20 +1,20 @@
 {
-    "guid": "1705b21b-8696-a204-93b1-a51646363a63",
+    "guid": "acef6e07-9e45-6607-47d4-2e8d7f91c474",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "98d08626-9bee-79cc-c143-281cd6c95894",
+    "instanceGuid": "4c5e944c-09ac-4010-f366-ee5d8789d9bf",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "658b3a00-1d91-d5b5-3533-2744d959f7bf",
+            "instanceGuid": "8025994c-2020-760a-a0f5-e437b585707f",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Block Dirt 3x5.004 Physics Body"
+                    "name": "Platform Physics Body"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "9ef93fbf-8760-b9ab-46a3-bc8fb1b1ec78",
+                    "instanceGuid": "97646bf8-72b9-beb8-ccd8-3ecfc1f30b23",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Block Dirt 3x5.004 Blox Atlas Collider"
+                            "name": "Platform Blox Atlas Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "bc807190-b017-2e9d-ba8f-e36c4cffedbc",
+                            "instanceGuid": "66a6cdaf-cedc-2f42-6af5-50fa22868e70",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Block Dirt 3x5.004 Blox Atlas"
+                                    "name": "Platform Blox Atlas"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "5eefc0e8-666e-b130-435e-a7a19c332a8e",
+                                "mesh": "27d4f3d8-9dc3-a105-f3d1-615d91f07bc3",
                                 "material_instance": "c642b56d-269a-a330-6ad0-09a44f403b84"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "5eefc0e8-666e-b130-435e-a7a19c332a8e"
+                        "mesh": "27d4f3d8-9dc3-a105-f3d1-615d91f07bc3"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,11 +64,11 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "1705b21b-8696-a204-93b1-a51646363a63"
+        "scene": "acef6e07-9e45-6607-47d4-2e8d7f91c474"
     },
     "dependencies": [
         "c642b56d-269a-a330-6ad0-09a44f403b84",
-        "5eefc0e8-666e-b130-435e-a7a19c332a8e",
+        "27d4f3d8-9dc3-a105-f3d1-615d91f07bc3",
         "db5dc618-2cfe-44e9-a319-69c503d090e7"
     ]
 }
