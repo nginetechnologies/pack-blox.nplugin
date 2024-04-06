@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Dog_Idle.fbx",
+    "skeleton": "f195fdc8-023d-9fda-e59b-34ec49e215b0",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "f195fdc8-023d-9fda-e59b-34ec49e215b0"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "a293d07e-a464-400d-9c45-f12120a96db6"
         }
     ],
-    "guid": "",
+    "guid": "a293d07e-a464-400d-9c45-f12120a96db6",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "f195fdc8-023d-9fda-e59b-34ec49e215b0"
     ]
 }

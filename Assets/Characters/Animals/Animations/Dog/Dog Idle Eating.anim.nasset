@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Dog_Idle_Eating.fbx",
+    "skeleton": "f195fdc8-023d-9fda-e59b-34ec49e215b0",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "f195fdc8-023d-9fda-e59b-34ec49e215b0"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "2095f885-cba6-4ef2-ae86-1db6dafd80a5"
         }
     ],
-    "guid": "",
+    "guid": "2095f885-cba6-4ef2-ae86-1db6dafd80a5",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "f195fdc8-023d-9fda-e59b-34ec49e215b0"
     ]
 }

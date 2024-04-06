@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Sheep_Walk.fbx",
+    "skeleton": "97add42e-d472-3262-26f2-ee1d919a714e",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "97add42e-d472-3262-26f2-ee1d919a714e"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "daf8cb2e-6855-44b1-b942-4f6fc902fab2"
         }
     ],
-    "guid": "",
+    "guid": "daf8cb2e-6855-44b1-b942-4f6fc902fab2",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "97add42e-d472-3262-26f2-ee1d919a714e"
     ]
 }

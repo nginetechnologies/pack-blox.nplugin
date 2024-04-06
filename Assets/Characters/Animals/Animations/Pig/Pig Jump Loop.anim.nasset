@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Pig_Jump_Loop.fbx",
+    "skeleton": "76001e45-da04-8678-696d-7649c16717e7",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "76001e45-da04-8678-696d-7649c16717e7"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "27203700-4fc0-43e0-976f-aba4dd361740"
         }
     ],
-    "guid": "",
+    "guid": "27203700-4fc0-43e0-976f-aba4dd361740",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "76001e45-da04-8678-696d-7649c16717e7"
     ]
 }

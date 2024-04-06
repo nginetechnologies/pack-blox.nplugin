@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Pig_Walk.fbx",
+    "skeleton": "76001e45-da04-8678-696d-7649c16717e7",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "76001e45-da04-8678-696d-7649c16717e7"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "d7e496ba-4672-4daf-b18d-16fe21bec057"
         }
     ],
-    "guid": "",
+    "guid": "d7e496ba-4672-4daf-b18d-16fe21bec057",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "76001e45-da04-8678-696d-7649c16717e7"
     ]
 }
