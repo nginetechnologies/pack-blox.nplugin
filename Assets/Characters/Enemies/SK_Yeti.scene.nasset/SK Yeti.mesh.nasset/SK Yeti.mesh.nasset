@@ -1,0 +1,75 @@
+{
+    "guid": "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "5c6df738-8efb-5939-756e-acd0015c3b17",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ef609de6-f26f-1d1e-e395-6bb2a45a43f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Yeti Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "bd006d39-1254-1e0d-23f6-164eae0c5044",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "16d3e6d2-e63c-9217-2032-1186932b4448",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Blox Enemies"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6d2f3c37-3a9d-91e5-934f-7123020b93f8",
+                                "material_instance": "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "081d5fdf-1889-601d-3736-72767649d755"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "3a9516c4-f95b-2205-1e61-009ee774518c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a"
+    },
+    "dependencies": [
+        "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+        "6d2f3c37-3a9d-91e5-934f-7123020b93f8",
+        "081d5fdf-1889-601d-3736-72767649d755",
+        "3a9516c4-f95b-2205-1e61-009ee774518c"
+    ]
+}

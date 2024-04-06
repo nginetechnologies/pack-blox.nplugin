@@ -1,0 +1,75 @@
+{
+    "guid": "b99bafaa-8c07-d109-585f-3513c7f1aacb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "761c6089-80f4-792f-a19a-0cbfd80891b5",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "dad9ac05-d7d7-31d8-d959-98d1fc3d2116",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Wizard Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "1c22739b-e7e2-4182-b535-c412e9d97793",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b2bc3f41-ef61-009e-f96c-372a1e9236eb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Wizard Blox Enemies"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "06ca30d7-5294-2000-7ba2-866b5e22dcab",
+                                "material_instance": "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2156501e-7fb8-8e4b-e858-66de1fff1741"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b99bafaa-8c07-d109-585f-3513c7f1aacb"
+    },
+    "dependencies": [
+        "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+        "06ca30d7-5294-2000-7ba2-866b5e22dcab",
+        "2156501e-7fb8-8e4b-e858-66de1fff1741",
+        "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+    ]
+}

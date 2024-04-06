@@ -1,0 +1,75 @@
+{
+    "guid": "78e09cc7-3660-2e15-874f-029fbcb2c723",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3d099588-30ed-b437-921f-e1537223930d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8c70e781-6c79-83e2-36a4-0e0da9ef5def",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Goblin Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "4d214581-691b-ec59-142c-d2f277deeb2f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ff1deb6d-d173-c764-4b55-95dc353c9e27",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Goblin Blox Enemies"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5620133e-b49a-f743-e819-f83163ed6fc4",
+                                "material_instance": "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c5d75a5d-a9f7-e6ac-f65f-c1d5d5a3af9f"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "78e09cc7-3660-2e15-874f-029fbcb2c723"
+    },
+    "dependencies": [
+        "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+        "5620133e-b49a-f743-e819-f83163ed6fc4",
+        "c5d75a5d-a9f7-e6ac-f65f-c1d5d5a3af9f",
+        "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+    ]
+}

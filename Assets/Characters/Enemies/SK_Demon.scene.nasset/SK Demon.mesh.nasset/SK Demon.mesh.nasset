@@ -1,0 +1,75 @@
+{
+    "guid": "68f430ad-7379-5891-aab2-acc06e8a243e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e94392c4-9bef-570f-086c-8a13adc7d08c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "50574676-2cf8-4faa-2025-5ecdf39fdebb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Demon Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "7b505d37-d7fd-a667-e339-0caaae603913",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "93073a8e-ef52-620b-7075-367e1d7ad525",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Demon Blox Enemies"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4a91e2c7-0b80-d34d-48a4-05d28595571d",
+                                "material_instance": "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "622f3ad3-a592-ef85-dd92-b28bb53703c8"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "68f430ad-7379-5891-aab2-acc06e8a243e"
+    },
+    "dependencies": [
+        "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+        "4a91e2c7-0b80-d34d-48a4-05d28595571d",
+        "622f3ad3-a592-ef85-dd92-b28bb53703c8",
+        "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+    ]
+}

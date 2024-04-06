@@ -1,10 +1,10 @@
 {
     "source": "A_Blox_Enemy_Idle.fbx",
-    "skeleton": "",
+    "skeleton": "d375cfc8-b5b3-0359-4ad6-9b1c4262552c",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "e834e9b4-5341-4f6c-b1d8-1e0575e3f50c",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
     ]
 }

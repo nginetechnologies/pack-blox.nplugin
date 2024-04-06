@@ -1,10 +1,10 @@
 {
     "source": "A_Giant_Walk.fbx",
-    "skeleton": "",
+    "skeleton": "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "8ffad761-d107-43f1-994f-d9578bcfb73e",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6"
     ]
 }
