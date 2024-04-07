@@ -130,12 +130,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "ecdaa19c-7b7a-2aa1-437f-65383a89a6cc"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Wolf Scene"
+                                    "name": "Hedgehog Scene"
                                 }
                             ]
                         }
@@ -177,6 +177,6 @@
     },
     "thumbnailGuid": "6dbbba86-4449-4c3a-a6e2-6dc6d36d6784",
     "dependencies": [
-        ""
+        "ecdaa19c-7b7a-2aa1-437f-65383a89a6cc"
     ]
 }

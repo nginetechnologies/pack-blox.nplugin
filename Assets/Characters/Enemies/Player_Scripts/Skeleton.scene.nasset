@@ -130,12 +130,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "75605f65-3cc5-a882-1c3f-c43f3712980f"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Wolf Scene"
+                                    "name": "Skeleton Scene"
                                 }
                             ]
                         }
@@ -177,6 +177,6 @@
     },
     "thumbnailGuid": "16e57208-169d-447e-8ab4-ec898023d91b",
     "dependencies": [
-        ""
+        "75605f65-3cc5-a882-1c3f-c43f3712980f"
     ]
 }

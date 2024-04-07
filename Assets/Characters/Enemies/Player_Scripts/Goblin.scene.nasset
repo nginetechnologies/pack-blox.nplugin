@@ -130,12 +130,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "78e09cc7-3660-2e15-874f-029fbcb2c723"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Wolf Scene"
+                                    "name": "Goblin Scene"
                                 }
                             ]
                         }
@@ -177,6 +177,6 @@
     },
     "thumbnailGuid": "55b6a5f5-3764-421f-a102-4626e5f9e501",
     "dependencies": [
-        ""
+        "78e09cc7-3660-2e15-874f-029fbcb2c723"
     ]
 }

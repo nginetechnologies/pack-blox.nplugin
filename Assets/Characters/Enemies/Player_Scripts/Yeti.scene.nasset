@@ -130,12 +130,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Wolf Scene"
+                                    "name": "Yeti Scene"
                                 }
                             ]
                         }
@@ -177,6 +177,6 @@
     },
     "thumbnailGuid": "6668e114-6eb1-4029-957b-408e649eaab6",
     "dependencies": [
-        ""
+        "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a"
     ]
 }
