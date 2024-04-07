@@ -1,9 +1,4 @@
 {
-    "0053ed26-b0cf-a132-7844-e16b886e3602": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/SK_Zombie.scene.nasset/SK Zombie.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "00c6e5c2-708f-7d89-280e-e17ceb3ed550": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -15,11 +10,6 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "00eed88f-ce0a-0d27-fa47-c39e5e583fc1": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Idle Eating.anim.nasset"
     },
     "0180caa5-9346-c94c-906d-e1e1f191c3df": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -94,10 +84,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "038d2b30-9e0e-36c3-d540-021d9e5b19d0": {
+    "03e3b6db-dc79-4617-aa0b-4f5b89ee6256": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Jump Start.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Walk.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
     },
     "04066e10-7a1b-d2b1-f24b-e6d29ab66eef": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -125,11 +118,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Thumbnails/Dead Tree 2.mesh.nasset.tex.nasset"
     },
-    "05a32089-04c8-04c5-4a36-63734f94a97e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Attack.anim.nasset"
-    },
     "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Enemies/Material Instances/Blox Enemies.mtli.nasset",
@@ -141,10 +129,6 @@
     "05ea991e-6b52-4d8a-93ee-0989146939c3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Rose/Thumbnails/Rose.scene.nasset.tex.nasset"
-    },
-    "066078e1-8c08-8bcf-33b7-7303582ef9bf": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Hedgehog.scene.nasset/SK_Hedgehog.scene.nasset"
     },
     "06b2be28-7ca5-451d-99a2-7fd1c347cd63": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -174,6 +158,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Thumbnails/Lever Left.mesh.nasset.tex.nasset"
     },
+    "0753058f-be05-4df8-b9a9-369df2986793": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Walk.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
+    },
     "07bf9043-5823-95b3-f7ea-1bc2d16589ce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -185,11 +177,6 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "080f80c4-f783-3745-1683-494b61d18ffb": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Jump Loop.anim.nasset"
     },
     "081d5fdf-1889-601d-3736-72767649d755": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -219,9 +206,6 @@
             "9b0db98b-05b0-2cf3-d54c-c876c7a5b742"
         ]
     },
-    "0916cba9-70b8-7a2a-1bd1-7d1d623d52b2": {
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Attack.anim.nasset"
-    },
     "0a836e0b-f643-584d-8ae8-9286e11a28a4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -234,6 +218,14 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "c82137e3-7110-c186-7415-d0696ae5b1ff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0aa72059-21c2-4c17-8fee-3242d8ff648f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Death.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
         ]
     },
     "0ae760fa-f048-1cbc-84d5-30129571290c": {
@@ -283,6 +275,9 @@
         "thumbnail": "a4037dae-9844-4444-b477-269da74cdce7",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "4b538fc2-f9be-5430-72b3-34053a43b5d2"
         ]
     },
     "0e297a13-d27a-48f8-b6fa-88703bd39296": {
@@ -337,10 +332,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "120d4be2-de47-ca2d-c9d0-e0fb6df9d4ee": {
+    "11feb6a2-c989-47b6-b6bd-c4c26b95cc9e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Attack.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Jump Start.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
+        ]
     },
     "122db259-1b40-2481-9c51-d05b91c0dc66": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -412,9 +410,16 @@
     },
     "16466b4a-9d1f-d36b-0604-6dce2d520d90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Giant.scene.nasset/SK Giant.mesh.nasset/SK Giant.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "410f7019-2dc6-2fb9-df1b-94fcd7cf5139",
+            "fe4dec9c-5d87-0d0d-b109-c567767fbc2b",
+            "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6"
         ]
     },
     "168472a2-403b-4125-ad9f-dbb32f065a3c": {
@@ -424,12 +429,10 @@
         "thumbnail": "6668e114-6eb1-4029-957b-408e649eaab6",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a"
         ]
-    },
-    "16af7757-c37f-587c-19f5-ef041fa42d02": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Run.anim.nasset"
     },
     "16bd61d1-0b4d-8f9e-bbea-81ff51be9f5a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -449,20 +452,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Enemies/Thumbnails/Skeleton.scene.nasset.tex.nasset"
     },
-    "17400549-c437-837d-1b30-d78e02c525cb": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Jump Start.anim.nasset"
-    },
-    "1755df05-e473-499e-5935-1d6a22b79561": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Giant.scene.nasset/SK_Giant.scene.nasset"
-    },
-    "17b0acec-5a63-6921-c13c-963a0b1dbacb": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Jump End.anim.nasset"
-    },
     "18280e21-5951-d880-c161-2d655a371464": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Thumbnails/Fence Corner.mesh.nasset.tex.nasset"
@@ -480,7 +469,7 @@
         "path": "Assets/Characters/Animals/Material Instances/Chick.mtli.nasset",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
-            "7c8cc425-02b6-37dc-f887-39edc71cce1f"
+            "69623f00-a211-b085-e779-c07507cd14c8"
         ]
     },
     "18ea3bfb-9ab4-918c-033c-ec2db18071cd": {
@@ -523,11 +512,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Thumbnails/Bush.mesh.nasset.tex.nasset"
     },
-    "1a8a2aea-6edb-b84d-fd27-51f568dea745": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/SK_Knight.scene.nasset/SK Knight.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "1be5eea7-4e4f-cc6f-62b6-df4223692606": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -566,16 +550,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "1e288678-af6c-4675-d8a5-bc9846f5e119": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Jump End.anim.nasset"
-    },
-    "1ed6e724-5611-9362-967f-a1467b368422": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Run.anim.nasset"
-    },
     "1edb408b-fb3c-01ce-47b5-821c472eb0c5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Cheese.mesh.nasset/Thumbnails/Block Cheese.mesh.nasset.tex.nasset"
@@ -583,6 +557,14 @@
     "1f65d7de-8abe-6c42-4847-f5f34464f46d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Thumbnails/Flowers 1.mesh.nasset.tex.nasset"
+    },
+    "1fa6bf34-4607-486e-9c1c-08fbd5f54ccf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Jump Start.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
     },
     "203d3d02-88ad-cafd-d878-8b24f6bfb4ce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -602,6 +584,14 @@
             "29913240-5fc7-499c-a34d-1343f09f08b0",
             "b1e0bcdd-1cfd-404f-b323-78339ef01eed",
             "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
+        ]
+    },
+    "2095f885-cba6-4ef2-ae86-1db6dafd80a5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Idle Eating.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
         ]
     },
     "211c4755-f6c3-a0d9-55d2-aeeda7ac4151": {
@@ -673,11 +663,6 @@
             "69623f00-a211-b085-e779-c07507cd14c8"
         ]
     },
-    "227b2fa9-de77-7aec-83f0-fd8cb717614d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Jump Start.anim.nasset"
-    },
     "22a2e325-5ceb-44d1-a9a0-84331152de49": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -705,16 +690,6 @@
         "dependencies": [
             "97add42e-d472-3262-26f2-ee1d919a714e"
         ]
-    },
-    "245cb86c-e5a8-9909-db38-ab1fcf87fa7c": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Walk.anim.nasset"
-    },
-    "248d7199-7635-32f0-5306-4a1fc2986193": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Jump Loop.anim.nasset"
     },
     "24ccd445-b488-61b2-75e8-6c2d492e5906": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -756,11 +731,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "253fcb92-fdc1-291f-6c88-7e3a621e6775": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Death.anim.nasset"
-    },
     "2556890f-00e6-4e73-abe3-5ead18ab090e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -768,11 +738,6 @@
         "dependencies": [
             "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29"
         ]
-    },
-    "265538c5-9877-3e9d-a9bd-82ec60380b34": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Death.anim.nasset"
     },
     "267b4409-bab7-4079-8fb1-4864580b622c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -789,6 +754,17 @@
         "thumbnail": "a7548ce9-d7ce-4758-9b68-45e2d96fea32",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "64402dcf-38c7-ef76-3381-8224d9538a5e"
+        ]
+    },
+    "27203700-4fc0-43e0-976f-aba4dd361740": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Jump Loop.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
         ]
     },
     "27d4f3d8-9dc3-a105-f3d1-615d91f07bc3": {
@@ -817,24 +793,27 @@
     },
     "28dad1cc-83d7-5878-7ed2-c5ffec6e6ad7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Goblin.scene.nasset/SK_Goblin.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Goblin.scene.nasset/SK_Goblin.scene.nasset",
+        "dependencies": [
+            "78e09cc7-3660-2e15-874f-029fbcb2c723"
+        ]
     },
     "29913240-5fc7-499c-a34d-1343f09f08b0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Players/Tony/Tony_Jump_Start.anim.nasset",
+        "path": "Assets/Characters/Players/Animations/Tony_Jump_Start.anim.nasset",
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
     },
     "2a35b93e-858f-fc4b-8884-ccc43145d8ac": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK_Yeti.scene.nasset"
-    },
-    "2a7254a5-5e16-f1b8-a004-5e51629b95c9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Run.anim.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK_Yeti.scene.nasset",
+        "dependencies": [
+            "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a"
+        ]
     },
     "2b18e317-58d3-8feb-ce34-112bc4ff6c7f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -861,11 +840,6 @@
     "2b9ddaf3-7eee-3a10-797b-f80633bd88b7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Pickaxe Stone.mesh.nasset/Thumbnails/Pickaxe Stone.mesh.nasset.tex.nasset"
-    },
-    "2c265441-bad3-fb7a-c88a-42aecd12a441": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Walk.anim.nasset"
     },
     "2d7ab3b6-a812-cc38-ff65-b87f91e9a6b7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -910,6 +884,9 @@
         "thumbnail": "6dbbba86-4449-4c3a-a6e2-6dc6d36d6784",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "ecdaa19c-7b7a-2aa1-437f-65383a89a6cc"
         ]
     },
     "3136ed4a-110f-4a56-9488-88a46d4df94b": {
@@ -949,10 +926,13 @@
             "bdbbd0b5-50bb-0429-f17e-f8cf9f5ecb29"
         ]
     },
-    "33c8117b-9052-8eaa-2680-c49df9fa688e": {
+    "344a21d3-8192-4fa1-b0a2-9fb8da7f32ca": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Headbutt.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Run.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
+        ]
     },
     "34b4ce90-5778-f5c6-b83a-603171e4f41c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -974,16 +954,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Snow.mesh.nasset/Thumbnails/Block Snow.mesh.nasset.tex.nasset"
     },
-    "3513feff-a768-ad17-7e45-fd22f8e835f8": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/SK_Goblin.scene.nasset/SK Goblin.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "369d81b9-0d96-fe96-579a-2fb6e2d2b802": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Zombie.scene.nasset/SK Zombie.mesh.nasset/SK Zombie.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "2b18e317-58d3-8feb-ce34-112bc4ff6c7f",
+            "97818426-fdbf-65fb-7f1b-f8da48f6d521",
+            "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
         ]
     },
     "374ecb22-d0cf-4506-8374-3f31f8004310": {
@@ -993,6 +975,9 @@
         "thumbnail": "f58b84ce-0f92-4a27-9eba-c00ca0adf245",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "520abdbb-d08c-c735-fe62-673cb26e4d61"
         ]
     },
     "379ffe21-b9a6-4d71-b455-d6e9dab802f1": {
@@ -1002,11 +987,6 @@
         "dependencies": [
             "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6"
         ]
-    },
-    "38130e97-c4f2-df45-057a-bdeefa935ed7": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/SK_Wizard.scene.nasset/SK Wizard.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "38151a9d-dbe3-4952-a3d0-679ecd0308c6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1048,11 +1028,6 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK Yeti.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "3bc1d4a3-22f0-f239-6665-e71575402c56": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Idle.anim.nasset"
     },
     "3c5d27ae-e6b6-4a3b-8f76-2c23b41cc7ed": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1126,6 +1101,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Thumbnails/Grass Big.mesh.nasset.tex.nasset"
     },
+    "3ee03f2e-f4c2-4f8e-9748-c43f7b48af71": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Jump End.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
+    },
     "3ee27398-d3ee-a6c2-00af-da171bbee010": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1141,11 +1124,6 @@
     "3ef9eede-047b-44a5-999f-8bbf06ad9921": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Tony/Thumbnails/Tony.scene.nasset.tex.nasset"
-    },
-    "3f701da8-c2b0-2f34-9bfb-12f81049bf81": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Run.anim.nasset"
     },
     "3fe3011a-b5ff-c671-0a9b-ce03433ab298": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1201,6 +1179,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Sword Wood.mesh.nasset/Thumbnails/Sword Wood.mesh.nasset.tex.nasset"
     },
+    "43b61d90-6a94-456e-8a88-97d03929482c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Run.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+        ]
+    },
     "45974803-4e3b-367b-78a0-829b9bc311c5": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1210,11 +1196,6 @@
             "6ea6d01b-faae-d8ac-0d6a-d657616805dc",
             "9a014f95-5b9c-d2e4-977d-edb4947a853c"
         ]
-    },
-    "470a3845-a853-e4f2-4788-80c26c1fc315": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Hit React.anim.nasset"
     },
     "47c9ec7a-7cd2-9bcc-4830-362ed958cf09": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1243,6 +1224,9 @@
         "thumbnail": "d2b6c5e0-6b9f-4d63-96c5-bde35ce7b8af",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "369d81b9-0d96-fe96-579a-2fb6e2d2b802"
         ]
     },
     "48282f15-a264-8f2c-1373-3e21be15a1c8": {
@@ -1291,9 +1275,16 @@
     },
     "496d58ea-a2a7-5717-bd36-aa5fee5ec341": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Animals/SK_Sheep.scene.nasset/SK Sheep.mesh.nasset/SK Sheep.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "dff8249f-cef8-9ffe-0498-ab54afe84e3c",
+            "21833f98-1ca4-c0b4-bd51-fc8046c2a670",
+            "d8c496c6-97de-c6f3-a03e-b73ef1d1fe97",
+            "97add42e-d472-3262-26f2-ee1d919a714e"
         ]
     },
     "49beb322-7c76-81bc-6f87-0ba6888a2070": {
@@ -1309,11 +1300,6 @@
             "15daf9af-34d6-378a-a598-cdd403534fc5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "49f99ee7-8842-69db-f15d-bb297552b7d2": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Jump Start.anim.nasset"
     },
     "4a91e2c7-0b80-d34d-48a4-05d28595571d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1352,11 +1338,6 @@
             "ce5d2d21-4679-4e29-3244-91d29f43bd02",
             "777fe381-6879-775a-b0f5-1d6bce0243da"
         ]
-    },
-    "4b8f6326-665d-b5ec-bc63-53f66352282e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Run.anim.nasset"
     },
     "4bbc37cd-1b2c-03c5-ece0-d38ed75af621": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1398,11 +1379,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "4d264606-7365-cf03-1481-10fb5dbc6250": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Idle.anim.nasset"
-    },
     "4e2d7c0f-d71c-490f-97ef-3e518a51e061": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1429,24 +1405,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4f2ddb3e-29fc-4afb-ab9e-24635b9998df": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Jump Start.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+        ]
+    },
     "4f4622b6-aa85-e0cf-5f3b-fe686e0ea0f6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/James/Material Instances/Thumbnails/James.mtli.nasset.tex.nasset"
-    },
-    "50a052e4-ef92-cb03-58c9-fba646a872fd": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Jump Loop.anim.nasset"
-    },
-    "50f67c11-bc2d-11e7-a72a-e4069ff961af": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Idle Eating.anim.nasset"
-    },
-    "511b0847-6a1d-c82d-b2f2-14d4a44f09c9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Jump Loop.anim.nasset"
     },
     "516871f8-9d1d-3aba-be5d-a940cb7c9d19": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1584,6 +1553,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5513a269-851f-4753-8cab-8a70f30d193a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Idle.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
+        ]
+    },
     "5556d5cc-468e-4448-80a6-a5de955440a1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1679,11 +1656,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "593beeed-db05-4348-bcc2-0f166850eaa4": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Idle.anim.nasset"
-    },
     "5a4cc649-8c79-3356-66df-2d0ed2e860f6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1702,21 +1674,9 @@
             "3a9516c4-f95b-2205-1e61-009ee774518c"
         ]
     },
-    "5af659a8-8e06-b67c-0048-471003ff57bf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "5b03df58-9e1a-af93-7ee2-3f8b62186ef4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Thumbnails/Tree 1.mesh.nasset.tex.nasset"
-    },
-    "5bc7842f-8fbe-75d2-cfe3-e54af4d94252": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Hedgehog/Hedgehog Death.anim.nasset"
     },
     "5bf47a3e-9069-43fe-9c9b-92f8da21eb6b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1745,17 +1705,27 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/SK_Horse.scene.nasset/SK Horse.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "5fe5366d-890e-4bac-8026-0cd3c4f239d9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Jump Loop.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+        ]
+    },
     "6034e33a-0daf-b6bf-bc85-7a82ae56bc0a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "6d2f3c37-3a9d-91e5-934f-7123020b93f8",
+            "081d5fdf-1889-601d-3736-72767649d755",
+            "3a9516c4-f95b-2205-1e61-009ee774518c"
         ]
-    },
-    "60bc4f56-a050-8f53-0d02-bdd16544b548": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Death.anim.nasset"
     },
     "60e26485-a2ef-7648-7d52-bbb5fa2dd012": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1808,16 +1778,6 @@
             "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
         ]
     },
-    "6270a344-0d3b-0dae-c1b4-c81b72d6241e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Death.anim.nasset"
-    },
-    "62d9e714-a2ff-e69f-e361-3ca6114f3563": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Idle Eating.anim.nasset"
-    },
     "62dfe74d-7dc6-71d7-f591-a55d7ed1633e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1843,11 +1803,6 @@
             "ea8a1694-d44a-bb26-f38f-110643357759",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "641ab642-92cd-6d76-1921-8ee5286c9522": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Walk.anim.nasset"
     },
     "6421ca03-0d62-4212-156b-7512b53acaa2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1897,7 +1852,11 @@
     },
     "67416b91-c57d-2241-2c3b-fbe4273fb132": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Animals/SK_Sheep.scene.nasset/SK_Sheep.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/SK_Sheep.scene.nasset/SK_Sheep.scene.nasset",
+        "dependencies": [
+            "496d58ea-a2a7-5717-bd36-aa5fee5ec341"
+        ]
     },
     "67ad8e2c-1c57-e428-919b-1ef4c70fd55e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1919,16 +1878,18 @@
             "64402dcf-38c7-ef76-3381-8224d9538a5e"
         ]
     },
-    "68ec4e2f-e322-9ef8-7075-66aa8e64a1cd": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Attack.anim.nasset"
-    },
     "68f430ad-7379-5891-aab2-acc06e8a243e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Demon.scene.nasset/SK Demon.mesh.nasset/SK Demon.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "4a91e2c7-0b80-d34d-48a4-05d28595571d",
+            "622f3ad3-a592-ef85-dd92-b28bb53703c8",
+            "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
         ]
     },
     "69056ef6-9f18-4bf3-a607-1ee9e2c45b14": {
@@ -1959,6 +1920,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Textures/T_Blox_Atlas_D.tex.nasset"
     },
+    "6a727675-f253-4c8d-9967-67458c4faa6f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Idle Eating.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
+    },
     "6ad15d33-7d2e-528c-8a0b-a534fa4429ba": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1978,6 +1947,9 @@
         "thumbnail": "53b8d209-bb9e-4dcd-b2e8-bf66ec8ce2e8",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "16466b4a-9d1f-d36b-0604-6dce2d520d90"
         ]
     },
     "6b2f95ba-bda3-4bf3-8f9f-f11f1ab7a306": {
@@ -2007,11 +1979,6 @@
         "dependencies": [
             "97add42e-d472-3262-26f2-ee1d919a714e"
         ]
-    },
-    "6b876275-9b30-6ad5-d760-17ae1eef3bfc": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Walk.anim.nasset"
     },
     "6ba2ac4f-0adf-e498-85ea-ec1186e39e16": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2075,6 +2042,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Thumbnails/Chick.scene.nasset.tex.nasset"
     },
+    "6e572c4b-f0dd-4b1d-9317-7a3754ec1430": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Headbutt.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
+    },
     "6e9bb504-d0cd-491a-9c2b-b378df085786": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2091,11 +2066,26 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Shovel Diamond.mesh.nasset/Thumbnails/Shovel Diamond.mesh.nasset.tex.nasset"
     },
+    "70db9f28-eca1-4a30-b104-1e53283a885c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Jump Start.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
+    },
     "70f92ed8-a893-52c6-e402-bd25f259ff45": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Knight.scene.nasset/SK Knight.mesh.nasset/SK Knight.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "6b62f6dd-f4da-8f8d-e43a-6152d9081bf6",
+            "a18b93e7-fa7d-10af-2ddf-04596ee94092",
+            "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
         ]
     },
     "722d4e71-5f3e-b8d5-f4d0-214a2f95d8e9": {
@@ -2160,12 +2150,10 @@
         "thumbnail": "f3fc4ee8-570b-497e-b322-30e1776f4769",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "cc598e06-dc96-ac0a-7d5f-7cb1d477d3f9"
         ]
-    },
-    "73aeb88a-553e-7dd1-b050-c535723c5e7c": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Death.anim.nasset"
     },
     "7427b22a-6d14-c2d3-dc99-10cf91b5c43a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2225,9 +2213,16 @@
     },
     "75605f65-3cc5-a882-1c3f-c43f3712980f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Skeleton.scene.nasset/SK Skeleton.mesh.nasset/SK Skeleton.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "018a8a93-49f0-296e-7301-55d80d494826",
+            "4872fd6b-8799-6f06-cc2d-245979a8d826",
+            "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
         ]
     },
     "758b5d0f-2a06-7954-20b9-735950ab27b6": {
@@ -2339,15 +2334,17 @@
     },
     "78e09cc7-3660-2e15-874f-029fbcb2c723": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Goblin.scene.nasset/SK Goblin.mesh.nasset/SK Goblin.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "5620133e-b49a-f743-e819-f83163ed6fc4",
+            "c5d75a5d-a9f7-e6ac-f65f-c1d5d5a3af9f",
+            "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
         ]
-    },
-    "79150498-5025-5980-1845-4dd1813b808e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Jump Start.anim.nasset"
     },
     "7947db78-9123-4290-7b34-3670a716eeb1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2368,6 +2365,9 @@
         "thumbnail": "55b6a5f5-3764-421f-a102-4626e5f9e501",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "78e09cc7-3660-2e15-874f-029fbcb2c723"
         ]
     },
     "79a4da26-472e-45ee-970c-383da4a6d7d6": {
@@ -2414,6 +2414,14 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "be96532c-a1e4-f811-e926-6a3a0d21a202",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7ca0ad93-9ce4-4c91-aba0-d4b6a97fbadb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Death.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
         ]
     },
     "7cd4a039-cf94-cdcd-9d41-6a06c0c5b1ae": {
@@ -2500,11 +2508,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Dirt.mesh.nasset/Thumbnails/Block Dirt.mesh.nasset.tex.nasset"
     },
-    "7f1d6050-21ad-ac7b-6080-04363d7d9230": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Run.anim.nasset"
-    },
     "804d50e7-8deb-ff17-15a8-0b08ee0b591e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Metal.mesh.nasset/Thumbnails/Block Metal.mesh.nasset.tex.nasset"
@@ -2563,6 +2566,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8220c144-9425-4524-8c72-734005811e70": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Run.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
+    },
     "830e587a-cabd-4d9c-a6cd-0be326d52b54": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2599,7 +2610,11 @@
     },
     "83807703-c89a-7c0e-a0c0-031d1970982a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Zombie.scene.nasset/SK_Zombie.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Zombie.scene.nasset/SK_Zombie.scene.nasset",
+        "dependencies": [
+            "369d81b9-0d96-fe96-579a-2fb6e2d2b802"
+        ]
     },
     "83aaa2ca-f415-82c9-04cb-343dcc3841a7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2619,14 +2634,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "84d8a88e-a9a1-d725-9d1d-1d6460fb9b31": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Jump.anim.nasset"
-    },
     "85033b46-dc17-1b9c-c125-22a1cdf28e67": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Knight.scene.nasset/SK_Knight.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Knight.scene.nasset/SK_Knight.scene.nasset",
+        "dependencies": [
+            "70f92ed8-a893-52c6-e402-bd25f259ff45"
+        ]
     },
     "859845e3-b383-b9d1-df9c-b3130666d856": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2640,11 +2654,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "85f02fbe-b589-3a0d-6ce8-b248461b4ad1": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Hit React.anim.nasset"
-    },
     "87413521-7705-907e-50a6-4633b9a63d2a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2656,11 +2665,6 @@
             "0180caa5-9346-c94c-906d-e1e1f191c3df",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "87a6d8dd-7042-3bee-4256-a621afcaf8f4": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Idle Eating.anim.nasset"
     },
     "87a95dde-df0c-b026-4309-861ad92e07a6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2674,19 +2678,9 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "87e8c799-67fb-802a-e7cc-d6d36b3206b4": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Headbutt.anim.nasset"
-    },
     "8958bb7b-7421-41b0-b342-f2ef5cf01cce": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Blox_EnviroSpecular.tex.nasset"
-    },
-    "8986bfc4-2a9b-b967-3260-56141235ca55": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Death.anim.nasset"
     },
     "89d3f208-499b-4a8f-8f19-9b7be4f6ad0e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2712,11 +2706,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Thumbnails/Cart.mesh.nasset.tex.nasset"
     },
-    "8bd1d3d6-0f77-0ca6-d1d6-0e0f5bd86ba6": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Headbutt.anim.nasset"
-    },
     "8c427901-a13a-9c13-c2dc-99a27771cec5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Sword Stone.mesh.nasset/Thumbnails/Sword Stone.mesh.nasset.tex.nasset"
@@ -2739,11 +2728,6 @@
             "28d18305-23ac-a939-5fb0-5751b2620b36",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "8c9be058-de1a-dcd7-3b5a-2c4f7b32f51e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Headbutt.anim.nasset"
     },
     "8d1567d6-d869-21ed-bd19-68cfb74c6266": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2772,11 +2756,6 @@
             "a8963502-06a7-e161-e9a5-40a9f80e3256",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "8e70880c-b83b-138a-4c44-ef78a7678453": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Jump End.anim.nasset"
     },
     "8f2a0c52-0ca2-dc95-433d-a287b0debcb4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2834,19 +2813,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "915bf66a-0afa-566a-635e-2952890d6662": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Walk.anim.nasset"
-    },
     "92531837-09b3-c740-98b9-ae0cd30315a0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Millicent/Textures/T_Blox_Atlas_D.tex.nasset"
     },
-    "92d91490-80c6-44eb-241c-101511717c2a": {
+    "931b5fa8-7ab3-48bb-be3a-17c0f4a9edb0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Jump.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Idle Eating.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
     },
     "932f1b7e-5fdd-dfb0-64f4-eddd7bc1e7d0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2869,7 +2846,7 @@
     "93cc5c8d-5c0a-4b03-a43d-ca954bbb7ae8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Players/Tony/Tony_Run.anim.nasset",
+        "path": "Assets/Characters/Players/Animations/Tony_Run.anim.nasset",
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
@@ -2898,6 +2875,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9530d7dd-5cb3-43a5-b6dd-4f2653f87a47": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Jump Loop.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
+    },
     "95ad2a1d-c544-05a8-b037-ea5c284fba19": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2911,28 +2896,6 @@
             "0fedefe4-687b-944d-ae99-4f2c62320467",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "95f13bd6-c8cd-0f10-6427-4e86c1892688": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Jump End.anim.nasset"
-    },
-    "961258fa-98e7-de8d-ca01-1424d3d45289": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Blox Enemies.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "96cdb561-8fc3-ee6d-187a-c17b5aeea664": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Headbutt.anim.nasset"
     },
     "970e58d8-a245-8b79-da09-f26c9f459089": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2953,19 +2916,9 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/SK_Sheep.scene.nasset/SK Sheep.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
-    "97c1bda4-446f-9361-3e4e-9fe4f9fe0026": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Hit React.anim.nasset"
-    },
     "980c880d-02d7-c051-7d64-8c73fe977e10": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Rose/Material Instances/Thumbnails/Rose.mtli.nasset.tex.nasset"
-    },
-    "98939e7c-4db0-2bec-c927-bdcfe2058eb8": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/SK_Skeleton.scene.nasset/SK Skeleton.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "994a390c-6fb1-4afe-a93d-ef69cadfb1d6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3004,7 +2957,7 @@
         "path": "Assets/Characters/Animals/Material Instances/Cat.mtli.nasset",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
-            "e8527f95-ce8f-38e2-3169-0de7e5ba416e"
+            "69623f00-a211-b085-e779-c07507cd14c8"
         ]
     },
     "9b811889-80c5-4f8e-8f75-ab4cdc28dd1b": {
@@ -3014,6 +2967,9 @@
         "thumbnail": "f208132d-9fad-4bef-a950-ae4f4237fbc8",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "68f430ad-7379-5891-aab2-acc06e8a243e"
         ]
     },
     "9c2390a6-3aa0-cd51-65d8-580d852c03f3": {
@@ -3055,11 +3011,6 @@
             "b1e0bcdd-1cfd-404f-b323-78339ef01eed",
             "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
         ]
-    },
-    "9ce8291b-feb2-34bc-4490-dee73bb14d38": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Idle.anim.nasset"
     },
     "9d69ab06-8ff2-a8fb-8405-924c4b422e16": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3115,9 +3066,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Thumbnails/Rock 2.mesh.nasset.tex.nasset"
     },
-    "a0a2a499-4448-cc2a-0035-4defe0b91e5e": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Yeti.scene.nasset/SK_Yeti.scene.nasset"
+    "a0b3bd13-bb35-467c-9f2c-f719ec9f8e55": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Jump End.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+        ]
     },
     "a10b04d7-32f0-209a-5cd3-9b06295ce76f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3141,6 +3096,14 @@
             "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
         ]
     },
+    "a199a36b-e275-4238-a3e9-ae5f24678994": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Jump End.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
+    },
     "a1b595c7-922f-a501-53e1-93577b805f47": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3151,13 +3114,6 @@
         "dependencies": [
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a1b8c24d-24dd-efde-1638-1103096aa4c6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Characters/Enemies/SK_Giant.scene.nasset/SK Giant.mesh.nasset/SK Giant.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "a2106d4b-05d8-b8ef-4ade-447c28ea4780": {
@@ -3171,20 +3127,18 @@
     "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Players/Tony/Tony_Jump_End.anim.nasset",
+        "path": "Assets/Characters/Players/Animations/Tony_Jump_End.anim.nasset",
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
     },
-    "a23cbf8c-0284-139f-f68d-74171e214b98": {
+    "a293d07e-a464-400d-9c45-f12120a96db6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Run.anim.nasset"
-    },
-    "a34990d5-8ba2-a145-9b73-f55f49f82956": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Jump.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Idle.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
+        ]
     },
     "a37760e8-8103-51c4-030b-96bc532b936c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3194,11 +3148,6 @@
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "f3978e85-7baf-0752-cd38-4ae534d4e35f"
         ]
-    },
-    "a3caa024-6c2c-8f73-dc7f-41748b13067f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Walk.anim.nasset"
     },
     "a4037dae-9844-4444-b477-269da74cdce7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3223,6 +3172,9 @@
         "thumbnail": "ca462438-a8fe-4dbd-8cb7-2aa8aa6d5bff",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "6dbf82d7-52c4-f527-7cf4-4db72c341903"
         ]
     },
     "a5f0fde2-c954-64e9-ca19-8fc9c29ea79c": {
@@ -3236,7 +3188,7 @@
     "a687e655-14f1-4590-8519-5b0bddd76e43": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Players/Tony/Tony_Walk.anim.nasset",
+        "path": "Assets/Characters/Players/Animations/Tony_Walk.anim.nasset",
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
@@ -3281,19 +3233,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a8f28fa7-3f38-e87b-d584-1c32c204cd05": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Characters/Enemies/SK_Hedgehog.scene.nasset/SK Hedgehog.mesh.nasset/SK Hedgehog.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "a99a061e-c476-aa5a-f119-79105e69d491": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Players/James/SK_James.scene.nasset/SK_James.scene.nasset",
         "dependencies": [
             "9c5ce483-62c4-4212-ee03-febec098df59"
+        ]
+    },
+    "a9e09e42-2e25-4253-b317-8691d939d7d7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Headbutt.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
         ]
     },
     "ab55359e-df5a-1750-5a3a-5135037f626f": {
@@ -3315,11 +3268,6 @@
     "abf06c53-082a-5cf3-5b2c-ba794b6cb8b5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Grass.mesh.nasset/Thumbnails/Block Grass.mesh.nasset.tex.nasset"
-    },
-    "ac41b0d4-f493-f90b-a247-0f329d5a3521": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Death.anim.nasset"
     },
     "acad21ff-031d-4e8c-f561-6857aba361f3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3406,9 +3354,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "af0a70ca-a774-c07d-6397-f60d8dd3b145": {
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Attack.anim.nasset"
-    },
     "b04df762-88c0-4114-a491-9b659fa281e8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3428,7 +3373,7 @@
     "b1e0bcdd-1cfd-404f-b323-78339ef01eed": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Players/Tony/Tony_Jump_Loop.anim.nasset",
+        "path": "Assets/Characters/Players/Animations/Tony_Jump_Loop.anim.nasset",
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
@@ -3445,11 +3390,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "b206dae6-1f3f-23ab-85ab-9b2edaa38273": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Idle.anim.nasset"
-    },
     "b21af6c4-c27c-a357-f408-2b8c01d0c774": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3462,6 +3402,14 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "252f2ae3-e781-95b2-0b30-7528c787a36b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b3507f50-c450-4560-8a07-8dedf267eeae": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Headbutt.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
         ]
     },
     "b40a0bae-7020-e5f3-0ce2-0d54a4670226": {
@@ -3512,11 +3460,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "b4bf80f2-09dd-7fef-c98e-04c51bac29c6": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Run.anim.nasset"
-    },
     "b51cc9bc-692f-67cf-459c-f9ee20d095f1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Tony/Material Instances/Thumbnails/Tony.mtli.nasset.tex.nasset"
@@ -3535,17 +3478,11 @@
     },
     "b845c0ff-69c5-64f5-ba3c-d772e4087a40": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Giant.scene.nasset/SK_Giant.scene.nasset"
-    },
-    "b86aa1e4-12d3-b3d3-08f8-9e9fd70c3bbd": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Walk.anim.nasset"
-    },
-    "b8fd1254-594d-0289-0d40-ab3839743c76": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Idle.anim.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Giant.scene.nasset/SK_Giant.scene.nasset",
+        "dependencies": [
+            "16466b4a-9d1f-d36b-0604-6dce2d520d90"
+        ]
     },
     "b97e1222-bb56-91bc-d25b-1eefa2cb2e07": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3561,9 +3498,32 @@
     },
     "b99bafaa-8c07-d109-585f-3513c7f1aacb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Wizard.scene.nasset/SK Wizard.mesh.nasset/SK Wizard.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "06ca30d7-5294-2000-7ba2-866b5e22dcab",
+            "2156501e-7fb8-8e4b-e858-66de1fff1741",
+            "d375cfc8-b5b3-0359-4ad6-9b1c4262552c"
+        ]
+    },
+    "ba0bb5fe-1954-4e4d-a47c-e53b40647424": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Horse/Horse Idle.anim.nasset",
+        "dependencies": [
+            "5f73244c-e2d8-d02a-c3db-d0b7507c174d"
+        ]
+    },
+    "ba1210fa-4f35-443d-813d-cf596d36b196": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Dog/Dog Walk.anim.nasset",
+        "dependencies": [
+            "f195fdc8-023d-9fda-e59b-34ec49e215b0"
         ]
     },
     "ba2dd71d-37a2-6889-8a6b-b34fd4325c88": {
@@ -3612,11 +3572,6 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/SK_Chick.scene.nasset/SK Chick.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "be0d859b-648c-5501-96e4-c0bdc0735e4f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Jump End.anim.nasset"
     },
     "be2e1f15-6c2a-83fa-195c-d863d45c37db": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3723,7 +3678,11 @@
     },
     "c2cf3aa2-2fa1-120a-ff16-bc758cbef48f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Wizard.scene.nasset/SK_Wizard.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Wizard.scene.nasset/SK_Wizard.scene.nasset",
+        "dependencies": [
+            "b99bafaa-8c07-d109-585f-3513c7f1aacb"
+        ]
     },
     "c2fbf081-1775-4cdc-a038-cfa51f965d54": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3778,11 +3737,6 @@
             "b1e0bcdd-1cfd-404f-b323-78339ef01eed",
             "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
         ]
-    },
-    "c4ca02eb-c674-cfa9-b071-6c21a139886b": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Jump Loop.anim.nasset"
     },
     "c50afd8d-3a45-26f1-5b19-2f1d690ee551": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3840,14 +3794,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c8292242-ce2c-491a-8621-5b9af3967436": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Jump Loop.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
+    },
     "c93dee91-6804-a23e-6ce9-7ed8f2272b64": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Thumbnails/Tree 3.mesh.nasset.tex.nasset"
-    },
-    "c998ba67-3901-74c3-210b-ee30cd616fe8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Idle.anim.nasset"
     },
     "ca462438-a8fe-4dbd-8cb7-2aa8aa6d5bff": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3893,11 +3850,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "ce0de79c-7b88-75c4-1d7b-cc971ddec6ff": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Walk.anim.nasset"
-    },
     "ce21bfd5-2569-2d85-ecc5-01478a1a040c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3941,6 +3893,17 @@
         "thumbnail": "74d44aa5-e374-4d59-9315-6b85e60816a0",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "b99bafaa-8c07-d109-585f-3513c7f1aacb"
+        ]
+    },
+    "d04cbe8a-7d3d-4579-af95-82e0614bf862": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Headbutt.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
         ]
     },
     "d07ed76e-13b1-9c22-4968-17ca7e3dc463": {
@@ -4051,14 +4014,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "d55cca69-402b-5458-7e29-65f7e285014c": {
+    "d6619669-4a41-4661-9636-838a4ffab2db": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Run.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Death.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
+        ]
     },
     "d73dfb1a-f6dc-66da-4b09-4e8aae33bdde": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Thumbnails/Dead Tree 3.mesh.nasset.tex.nasset"
+    },
+    "d7e496ba-4672-4daf-b18d-16fe21bec057": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Walk.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
+        ]
     },
     "d8c496c6-97de-c6f3-a03e-b73ef1d1fe97": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -4161,23 +4135,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "db494b29-6bfd-a0a4-7cff-ade0d6193952": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Jump Loop.anim.nasset"
-    },
-    "db5618f2-ed81-6637-49b0-9e67f7c0211e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Enemies/SK_Hedgehog.scene.nasset/SK Hedgehog.mesh.nasset/SK Hedgehog Blox Enemies.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "dbeb63fe-1c9a-4e41-b9fc-7a5b7b82b78c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4185,6 +4142,9 @@
         "thumbnail": "086d5475-30c7-4d0d-aa07-b7046f17d469",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "70f92ed8-a893-52c6-e402-bd25f259ff45"
         ]
     },
     "dbf13930-47de-597b-039c-00e63440ef5e": {
@@ -4205,10 +4165,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "dde8ec28-6cdb-c929-fbb8-0fc96a1a80ca": {
+    "de14c559-bd1d-4b36-8632-377c3cc1c9a2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Death.anim.nasset"
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Idle.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
     },
     "de43687f-3cd3-4f29-66a8-a54af2e07f1a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4236,11 +4199,6 @@
             "c50afd8d-3a45-26f1-5b19-2f1d690ee551",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "de736134-1d5e-63cb-4c54-1878bd491461": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Hedgehog/Hedgehog Attack.anim.nasset"
     },
     "de94f678-612b-b6ff-0ce4-4a1109455991": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -4294,11 +4252,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "dfa5ff11-4a38-7c4c-798f-d05e2d686e81": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Hedgehog/Hedgehog Idle.anim.nasset"
-    },
     "dff8249f-cef8-9ffe-0498-ab54afe84e3c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Material Instances/Sheep.mtli.nasset",
@@ -4341,18 +4294,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "e48ded99-d70f-7d28-bd04-c30dc8643aba": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Enemies/SK_Giant.scene.nasset/SK Giant.mesh.nasset/SK Giant Blox Enemies.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "e526605c-c47e-4df5-b4c7-05d61e22b2c1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4360,12 +4301,10 @@
         "thumbnail": "e5d7c895-a4fe-4acd-9ebd-2737598e2629",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "496d58ea-a2a7-5717-bd36-aa5fee5ec341"
         ]
-    },
-    "e572b02a-2ccf-fec3-534a-4116d1bf4814": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Death.anim.nasset"
     },
     "e59a4f1a-33bd-8ef6-127d-d6094877fd7e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4384,11 +4323,6 @@
     "e5d7c895-a4fe-4acd-9ebd-2737598e2629": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Thumbnails/Sheep.scene.nasset.tex.nasset"
-    },
-    "e6a56e57-87a1-c0be-53fe-58283373a97d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Headbutt.anim.nasset"
     },
     "e6ce865f-97c4-70ca-43d9-de7ffdfd7be9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4414,7 +4348,11 @@
     },
     "ea3f901d-420e-4996-8bf4-792a6a2e1775": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Skeleton.scene.nasset/SK_Skeleton.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Skeleton.scene.nasset/SK_Skeleton.scene.nasset",
+        "dependencies": [
+            "75605f65-3cc5-a882-1c3f-c43f3712980f"
+        ]
     },
     "ea8a1694-d44a-bb26-f38f-110643357759": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4436,6 +4374,22 @@
             "69623f00-a211-b085-e779-c07507cd14c8"
         ]
     },
+    "ec072cce-0491-4b80-96dc-9857ec7d31c2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Death.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
+        ]
+    },
+    "ec377625-9f05-458f-af7c-c010447be4d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Jump End.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
+        ]
+    },
     "ec905431-6d76-4b95-a828-98e9855c5936": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4443,13 +4397,23 @@
         "thumbnail": "e12ac7d0-60cd-40bd-813f-2bed00c80360",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "8357f775-ef8d-a88f-ed8f-364448aa9535"
         ]
     },
     "ecdaa19c-7b7a-2aa1-437f-65383a89a6cc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Hedgehog.scene.nasset/SK Hedgehog.mesh.nasset/SK Hedgehog.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
+            "a8582281-75f3-5fe3-0004-f8f16a3c5182",
+            "bbcb952f-23a6-1af8-d65b-97b1a786557b",
+            "8c7e69c9-e02a-e0a5-08d7-e7290c4e2ca9"
         ]
     },
     "ed607b95-2084-47fd-896a-bb878054ec72": {
@@ -4459,12 +4423,10 @@
         "thumbnail": "16e57208-169d-447e-8ab4-ec898023d91b",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "75605f65-3cc5-a882-1c3f-c43f3712980f"
         ]
-    },
-    "ee1118f7-83eb-b49b-aefb-04e7037e6fda": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Jump End.anim.nasset"
     },
     "ee49d0e5-39d9-defe-3238-0439ef4d816f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4505,11 +4467,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "f0423079-5796-de9f-ce5b-426f11f9eb02": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Horse/Horse Jump Start.anim.nasset"
-    },
     "f0b3caef-ee83-a64e-161e-36028afee625": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4546,7 +4503,7 @@
     "f1aa074d-6077-4e5d-95fa-d3631dd8532e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Players/Tony/Tony_Idle.anim.nasset",
+        "path": "Assets/Characters/Players/Animations/Tony_Idle.anim.nasset",
         "dependencies": [
             "daf79f7e-0475-2350-db2b-3de871e68c1c"
         ]
@@ -4562,12 +4519,11 @@
     },
     "f3664795-ef2b-3938-fcc2-34f5fe82a9f7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Hedgehog.scene.nasset/SK_Hedgehog.scene.nasset"
-    },
-    "f367ac68-f354-f37e-91c0-0838b494f7bd": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Pig/Pig Idle Eating.anim.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Hedgehog.scene.nasset/SK_Hedgehog.scene.nasset",
+        "dependencies": [
+            "ecdaa19c-7b7a-2aa1-437f-65383a89a6cc"
+        ]
     },
     "f3978e85-7baf-0752-cd38-4ae534d4e35f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4619,7 +4575,11 @@
     },
     "f51fdd87-9091-9ab0-92a6-635f95b63dad": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Demon.scene.nasset/SK_Demon.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Demon.scene.nasset/SK_Demon.scene.nasset",
+        "dependencies": [
+            "68f430ad-7379-5891-aab2-acc06e8a243e"
+        ]
     },
     "f528e8a3-7f10-2241-d26a-4c3bf80aab25": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4702,28 +4662,13 @@
             "d07ed76e-13b1-9c22-4968-17ca7e3dc463"
         ]
     },
-    "f799f32a-d9c3-22e8-da80-b5aaad30b92c": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemy_Shared/Blox Enemy Walk.anim.nasset"
-    },
     "f7e069ea-2648-6cee-196c-52f6721dedbf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Thumbnails/Mushroom.mesh.nasset.tex.nasset"
     },
-    "f828ae8d-e751-f7f1-5509-0b9c157c171f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Giant/Giant Idle.anim.nasset"
-    },
     "f90205e3-3b58-8d3b-b4f6-ea6fb3889210": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Thumbnails/Key.mesh.nasset.tex.nasset"
-    },
-    "f9048608-89e5-bd1c-fbde-ae68a645699d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Idle Eating.anim.nasset"
     },
     "f99943f3-93c6-1d68-77af-0cad8581a1c7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4735,6 +4680,14 @@
         "dependencies": [
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f9c18851-60ba-4bca-bd87-a0ea3dd62c07": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Raccoon/Raccoon Run.anim.nasset",
+        "dependencies": [
+            "9afe1fd0-b3e7-f3c3-d7f0-eac16f4907ea"
         ]
     },
     "fa027ade-91cd-fa14-ea6f-eb85709ee938": {
@@ -4761,11 +4714,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "fa75a75c-841a-85ee-7bce-b196e9cd589f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animals/Animations/Dog/Dog Idle.anim.nasset"
-    },
     "fa80e620-90d9-90e1-bcbe-a356c6159d68": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Blox_Enviro.tex.nasset"
@@ -4777,6 +4725,9 @@
         "thumbnail": "6e3087a5-5f4f-4474-b414-ee9c3b536bb1",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "021675fe-7364-2645-b1de-713cd645f7a6"
         ]
     },
     "fe4dec9c-5d87-0d0d-b109-c567767fbc2b": {
@@ -4787,6 +4738,14 @@
             "410f7019-2dc6-2fb9-df1b-94fcd7cf5139",
             "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6",
             "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b"
+        ]
+    },
+    "fe8acc86-51ab-442a-ac0a-c0ee4269e187": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Pig/Pig Idle Eating.anim.nasset",
+        "dependencies": [
+            "76001e45-da04-8678-696d-7649c16717e7"
         ]
     },
     "ff345495-1b3a-492f-5482-8e0f13f721be": {
