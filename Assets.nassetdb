@@ -42,6 +42,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "01e359cc-09b0-453f-a87e-15b98bfd4753": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Idle.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
+    },
     "02026a58-192f-7ffa-8102-906c72f1429f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Thumbnails/Plant 3.mesh.nasset.tex.nasset"
@@ -690,6 +698,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "245a5188-371c-40ec-b69e-f0a08cf6af22": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Idle.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
+    },
     "245cb86c-e5a8-9909-db38-ab1fcf87fa7c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -992,6 +1008,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Enemies/SK_Wizard.scene.nasset/SK Wizard.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "38151a9d-dbe3-4952-a3d0-679ecd0308c6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Idle Eating.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
+    },
     "382f326c-6852-9b00-fc62-f72503c0d7cc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Material Instances/Pig.mtli.nasset",
@@ -1253,6 +1277,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "48ddd133-825b-495e-8903-b03ac87046a1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Headbutt.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
+    },
     "48e46d97-1b8a-af50-bffa-a0c0eab8368e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Blank.mesh.nasset/Thumbnails/Block Blank.mesh.nasset.tex.nasset"
@@ -1298,6 +1330,14 @@
     "4ac6ff41-d6f7-2e3f-d066-b82c1486bf39": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Thumbnails/Bamboo Small.mesh.nasset.tex.nasset"
+    },
+    "4b212c13-cb5b-4e25-9607-83ce15dcf2cd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Jump Start.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
     },
     "4b538fc2-f9be-5430-72b3-34053a43b5d2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1678,6 +1718,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Enemies/Animations/Hedgehog/Hedgehog Death.anim.nasset"
     },
+    "5bf47a3e-9069-43fe-9c9b-92f8da21eb6b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Jump Loop.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
+    },
     "5c6dc61b-137b-29db-6585-4fcf3e8481bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1883,6 +1931,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "69056ef6-9f18-4bf3-a607-1ee9e2c45b14": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Jump Loop.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
+    },
     "690823b2-0f31-327d-87fd-bad42b6edd99": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Block Crate.mesh.nasset/Thumbnails/Block Crate.mesh.nasset.tex.nasset"
@@ -1942,6 +1998,14 @@
         "dependencies": [
             "05c5ff21-39cc-a8ab-7f96-e1ee24fff17b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6b65a244-8138-4c74-8391-9c5c18cccea2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Death.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
         ]
     },
     "6b876275-9b30-6ad5-d760-17ae1eef3bfc": {
@@ -2197,6 +2261,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/SK_Pig.scene.nasset/SK Pig.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "76e06a6d-b7a5-4d4a-8873-f278a271e34f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Headbutt.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
+    },
     "774a8d0e-4c0b-0161-f5c9-24bd27603369": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2296,6 +2368,14 @@
         "thumbnail": "55b6a5f5-3764-421f-a102-4626e5f9e501",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "79a4da26-472e-45ee-970c-383da4a6d7d6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Jump End.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
         ]
     },
     "7a6be63d-d7d0-3a54-f5bb-b406861ee314": {
@@ -2607,6 +2687,14 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Enemies/Animations/Yeti/Yeti Death.anim.nasset"
+    },
+    "89d3f208-499b-4a8f-8f19-9b7be4f6ad0e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Run.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
     },
     "89de2ee7-24de-9ce8-8110-a4d99ef0238e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3298,6 +3386,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Pickaxe Gold.mesh.nasset/Thumbnails/Pickaxe Gold.mesh.nasset.tex.nasset"
     },
+    "ae117cab-a61c-4def-ab59-aedc89e764ec": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Jump Start.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
+    },
     "ae9d016a-8968-e055-90ac-8effd19bcc08": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3424,6 +3520,14 @@
     "b51cc9bc-692f-67cf-459c-f9ee20d095f1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Players/Tony/Material Instances/Thumbnails/Tony.mtli.nasset.tex.nasset"
+    },
+    "b5be35bf-0919-45c4-a597-b0873f1fd927": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Jump End.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
     },
     "b7096c66-4c7c-6eb7-1f10-46ab7d8e679d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3892,6 +3996,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d27e9be6-6aac-4013-9155-b2fbb164c70b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Run.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
+    },
     "d284e054-9b3f-46a6-a2a2-abc93ea87ebc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4026,6 +4138,14 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Players/Tony/SK_Tony.scene.nasset/SK Tony.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "daf8cb2e-6855-44b1-b942-4f6fc902fab2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Sheep/Sheep Walk.anim.nasset",
+        "dependencies": [
+            "97add42e-d472-3262-26f2-ee1d919a714e"
+        ]
     },
     "dafadf03-cbbd-77d8-6291-14ba0e75e977": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4197,6 +4317,14 @@
         "path": "Assets/Characters/Enemies/Animations/Giant/Giant Hit React.anim.nasset",
         "dependencies": [
             "f2d828e0-3399-2de6-3fd8-4bb79d8b81b6"
+        ]
+    },
+    "e192d4e2-4b38-49d0-9710-ddda8b544fba": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Walk.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
         ]
     },
     "e434dd93-1a57-0fcc-6bda-1beaaab3fd42": {
@@ -4538,6 +4666,22 @@
             "c642b56d-269a-a330-6ad0-09a44f403b84",
             "3ee27398-d3ee-a6c2-00af-da171bbee010",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f5f21731-508b-4f13-8155-bbbfde4ee287": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Idle Eating.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
+        ]
+    },
+    "f60dada7-b187-4ee2-8d88-bd3392d3f3a8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Animations/Wolf/Wolf Death.anim.nasset",
+        "dependencies": [
+            "777fe381-6879-775a-b0f5-1d6bce0243da"
         ]
     },
     "f7239a67-206a-6df0-e4a6-e4d6eed84d84": {
