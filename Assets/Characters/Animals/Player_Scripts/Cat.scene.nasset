@@ -32,6 +32,12 @@
                 {
                     "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83",
                     "actionmap": "B62903BC-05C2-4198-A113-026AC074BB83"
+                },
+                {
+                    "typeGuid": "223c3cd4-ce54-4627-87f9-b6f27edb5311"
+                },
+                {
+                    "typeGuid": "6b94a270-d264-4a7a-b019-58c83b995f2c"
                 }
             ],
             "children": [
